@@ -1,0 +1,148 @@
+{
+    "books": {
+        "001": {
+            "language": "kn",
+            "identifier": "ark-ebooks/001",
+            "isbn": "",
+            "title": "ಶ್ರೀಪತಿಯ ಕಥೆಗಳು/Shreepathiya Kathegalu",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Hemantha Sahitya",
+            "page": "168",
+            "description": ""
+        },
+        "002": {
+            "language": "kn",
+            "identifier": "ark-ebooks/002",
+            "isbn": "",
+            "title": "ಸರ್ವಜ್ಞ ಕವಿ/Sarvjna Kavi",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Hemantha Sahitya",
+            "page": "80",
+            "description": ""
+        },
+        "003": {
+            "language": "kn",
+            "identifier": "ark-ebooks/003",
+            "isbn": "",
+            "title": "ಸಂಸ್ಕೃತ ನಾಟಕ/Samskruta Nataka",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Hemantha Sahitya",
+            "page": "304",
+            "description": ""
+        },
+        "004": {
+            "language": "kn",
+            "identifier": "ark-ebooks/004",
+            "isbn": "",
+            "title": "ಭಾಷಣಗಳು ಮತ್ತು ಲೇಖನಗಳು/Bashanagalu mattu lekhanagalu",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Hemantha Sahitya",
+            "page": "480",
+            "description": ""
+        },
+        "005": {
+            "language": "kn",
+            "identifier": "ark-ebooks/005",
+            "isbn": "",
+            "title": "ಬಂಕಿಮಚಂದ್ರ/Bankimchandra",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Hemantha Sahitya",
+            "page": "560",
+            "description": ""
+        },
+        "006": {
+            "language": "kn",
+            "identifier": "ark-ebooks/006",
+            "isbn": "",
+            "title": "ವಚನ ಭಾರತ/Vachana Bharata",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Navakarnataka Prakashana",
+            "page": "406",
+            "description": ""
+        },
+        "007": {
+            "language": "kn",
+            "identifier": "ark-ebooks/007",
+            "isbn": "",
+            "title": "ಕಥಾಮೃತ/Kathamruta",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Navakarnataka Prakashana",
+            "page": "424",
+            "description": ""
+        },
+        "008": {
+            "language": "kn",
+            "identifier": "ark-ebooks/008",
+            "isbn": "",
+            "title": "ಭಾಸಕವಿ/Bhasakavi",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "",
+            "page": "184",
+            "description": ""
+        },
+        "009": {
+            "language": "kn",
+            "identifier": "ark-ebooks/009",
+            "isbn": "",
+            "title": "ನಿರ್ಮಲ ಭಾರತೀ ಅಥವಾ ಮಕ್ಕಳ ಮಹಾಭಾರತ / Nirmala Bharati athava Makkala Mahabharata",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Sharada Mandira",
+            "page": "104",
+            "description": ""
+        },
+        "010": {
+            "language": "kn",
+            "identifier": "ark-ebooks/010",
+            "isbn": "",
+            "title": "ನಾಗಮಹಾಶಯ/Nagamahashaya",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Ramakrishna Ashrama, Bengaluru",
+            "page": "165",
+            "description": ""
+        },
+        "011": {
+            "language": "kn",
+            "identifier": "ark-ebooks/011",
+            "isbn": "",
+            "title": "ಕವಿಜಿಹ್ವಾಬಂಧನಂ/Kavijihvabamdhanam",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Sharada Mandira",
+            "page": "34",
+            "description": ""
+        },
+        "012": {
+            "language": "kn",
+            "identifier": "ark-ebooks/012",
+            "isbn": "",
+            "title": "ಹರಿಶ್ಚಂದ್ರಕಾವ್ಯ ಸಂಗ್ರಹ/Harischandrakavya Sangraha",
+            "creators": {
+                "author": "Dr. A.R. Krishnasastry"
+            },
+            "publisher": "Prasaranga, Mysore",
+            "page": "211",
+            "description": ""
+        }
+    }
+}
