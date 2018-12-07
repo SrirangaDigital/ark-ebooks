@@ -21,7 +21,7 @@
 
 		$fileName = preg_replace('/.*\/(.*)\..*/', "$1", $file);
 		$content = file($file);
-		
+	
 		//~ $content = preg_replace("/[  \t]+/",' ', $content);
 		//~ $content = preg_replace("![ [:blank:]]+!"," ",$content);			
 
@@ -50,33 +50,33 @@
 			$line = trim(ereg_replace(' +', ' ', $line));
 			$line = preg_replace('/[ \t]+/', ' ', $line);
 			
-			if(preg_match('/<BODY>/', $line)) $insideBody = true;
+			if(preg_match('/<body>/', $line)) $insideBody = true;
 
 			elseif($insideBody){
 				
 				
-				if(preg_match('/<H1>(.*?)<\/H1>/', $line)) {
+				if(preg_match('/<h1>(.*?)<\/h1>/', $line)) {
 
 					for ($i=1; $i <= $currentLevel; $i++) fwrite($fp, '</section>' . "\n");
 
 					fwrite($fp, '<section class="level1 numbered" epub:type="chapter" role="doc-chapter" id="id-">' . "\n");
-					fwrite($fp, '<h1 class="level1-title" epub:type="title">' . trim(preg_replace('/<H1>(.*?)<\/H1>/', "$1", $line)) . '</h1>' . "\n");
+					fwrite($fp, '<h1 class="level1-title" epub:type="title">' . trim(preg_replace('/<h1>(.*?)<\/h1>/', "$1", $line)) . '</h1>' . "\n");
 					$currentLevel = 1;
 					$insideLevel2 = false;
 				}
-				elseif(preg_match('/<H2>(.*?)<\/H2>/', $line)) {
+				elseif(preg_match('/<h2>(.*?)<\/h2>/', $line)) {
 					
 					if($insideLevel2) fwrite($fp, '</section>' . "\n");
 
 					fwrite($fp, '<section class="level2 numbered" id="id-.">' . "\n");
-					fwrite($fp, '<h2 class="level2-title" epub:type="title">' . trim(preg_replace('/<H2>(.*?)<\/H2>/', "$1",  $line)) . '</h2>' . "\n");
+					fwrite($fp, '<h2 class="level2-title" epub:type="title">' . trim(preg_replace('/<h2>(.*?)<\/h2>/', "$1",  $line)) . '</h2>' . "\n");
 
 					$currentLevel = 2;
 					$insideLevel2 = true;
 				}
-				elseif(preg_match('/<P>(.*)<\/P>/i', $line)) {
+				elseif(preg_match('/<p>(.*)<\/p>/i', $line)) {
 
-					fwrite($fp, '<p>' . replaceTags(trim(preg_replace('/<P>(.*)<\/P>/i', "$1", $line))) . "</p>\n");
+					fwrite($fp, '<p>' . replaceTags(trim(preg_replace('/<p>(.*)<\/p>/i', "$1", $line))) . "</p>\n");
 				}
 				//~ elseif(preg_match('/<P>/i', $line)) {
 
@@ -86,7 +86,7 @@
 
 					//~ fwrite($fp, "</p>\n");
 				//~ }
-				elseif(preg_match('/SECTION|HTML|BODY|<P\/>/i', $line)) {
+				elseif(preg_match('/<p\/>|<\/html>|<\/body>/i', $line)) {
 					continue;
 				}
 				else {
@@ -104,37 +104,37 @@
 
 	function replaceTags($line) {
 		
-		$line = preg_replace('/SPAN>/i', 'span>', $line);
-		$line = preg_replace('/Sub>/i', 'sub>', $line);
-		$line = str_replace('TABLE>', 'table>', $line);
-		$line = str_replace('TR>', 'tr>', $line);
-		$line = str_replace('TH>', 'th>', $line);
-		$line = str_replace('TD>', 'td>', $line);
-		$line = str_replace('LI>', 'li>', $line);
-		$line = str_replace('UL>', 'ul>', $line);
-		$line = str_replace('OL>', 'ol>', $line);
-		$line = str_replace('DL>', 'dl>', $line);
-		$line = str_replace('DT>', 'dt>', $line);
-		$line = str_replace('DD>', 'dd>', $line);
-		$line = str_replace('BR/>', 'br />', $line);
-		$line = str_replace('B>', 'strong>', $line);
-		$line = str_replace('I>', 'em>', $line);
-		$line = str_replace('U>', 'u>', $line);
-		$line = str_replace('<HR/>', '', $line);
-		$line = preg_replace('/H(\d)>/', "h$1>", $line);
-
-		$line = preg_replace('/(\d+):ಂ/', '${1}:0', $line);
-		$line = preg_replace('/ಂ(\d+)/', '0${1}', $line);
-		$line = preg_replace('/(\d+)ಂ/', '${1}0', $line);
-		$line = preg_replace('/<span class="en">([()!\-\.\':;"@©?—])(.*?)<\/span>/i', "$1$2", $line);
-		$line = preg_replace('/<span class=\"normal\">(.*)<\/span>/i', "$1", $line);
-		$line = str_replace('ಂಂ', '00', $line);
-		
-		$line = str_replace("\'", "'", $line);
-		$line = str_replace("<B/>", '', $line);
-		$line = preg_replace('/<p>\s+<\/p>/', '', $line);
-		$line = str_replace('<I/>', '', $line);
-		$line = str_replace('<strong></strong>', '', $line);
+		//~ $line = preg_replace('/SPAN>/i', 'span>', $line);
+		//~ $line = preg_replace('/Sub>/i', 'sub>', $line);
+		//~ $line = str_replace('TABLE>', 'table>', $line);
+		//~ $line = str_replace('TR>', 'tr>', $line);
+		//~ $line = str_replace('TH>', 'th>', $line);
+		//~ $line = str_replace('TD>', 'td>', $line);
+		//~ $line = str_replace('LI>', 'li>', $line);
+		//~ $line = str_replace('UL>', 'ul>', $line);
+		//~ $line = str_replace('OL>', 'ol>', $line);
+		//~ $line = str_replace('DL>', 'dl>', $line);
+		//~ $line = str_replace('DT>', 'dt>', $line);
+		//~ $line = str_replace('DD>', 'dd>', $line);
+		//~ $line = str_replace('BR/>', 'br />', $line);
+		//~ $line = str_replace('B>', 'strong>', $line);
+		//~ $line = str_replace('I>', 'em>', $line);
+		//~ $line = str_replace('U>', 'u>', $line);
+		//~ $line = str_replace('<HR/>', '', $line);
+		//~ $line = preg_replace('/H(\d)>/', "h$1>", $line);
+//~ 
+		//~ $line = preg_replace('/(\d+):ಂ/', '${1}:0', $line);
+		//~ $line = preg_replace('/ಂ(\d+)/', '0${1}', $line);
+		//~ $line = preg_replace('/(\d+)ಂ/', '${1}0', $line);
+		//~ $line = preg_replace('/<span class="en">([()!\-\.\':;"@©?—])(.*?)<\/span>/i', "$1$2", $line);
+		//~ $line = preg_replace('/<span class=\"normal\">(.*)<\/span>/i', "$1", $line);
+		//~ $line = str_replace('ಂಂ', '00', $line);
+		//~ 
+		//~ $line = str_replace("\'", "'", $line);
+		//~ $line = str_replace("<B/>", '', $line);
+		//~ $line = preg_replace('/<p>\s+<\/p>/', '', $line);
+		//~ $line = str_replace('<I/>', '', $line);
+		//~ $line = str_replace('<strong></strong>', '', $line);
 
 		//~ $line = str_replace('0', '೦', $line);
 		//~ $line = str_replace('1', '೧', $line);
@@ -147,7 +147,7 @@
 		//~ $line = str_replace('8', '೮', $line);
 		//~ $line = str_replace('9', '೯', $line);
 
-		$line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '</a></sup>', $line);
+		//~ $line = preg_replace('/<Sup(.*)>(.*)<\/Sup>/i', '<sup' . "$1" . '><a epub:type="noteref" href="999-aside.xhtml#id-">' . "$2" . '</a></sup>', $line);
 
 		return $line;
 	}
