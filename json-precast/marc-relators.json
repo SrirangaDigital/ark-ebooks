@@ -4,6 +4,7 @@
 		"translator": "trl",
 		"editor": "edt",
 		"bookDesigner": "bkd",
-		"compiler": "com"
+		"compiler": "com",
+		"commentator": "cmm"
 	}
 }
