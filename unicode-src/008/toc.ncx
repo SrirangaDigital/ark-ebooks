@@ -25,10 +25,10 @@
 <navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000c"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>ಭಾಸಕವಿಪೀಠಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+<navLabel><text>ಪೀಠಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ಅನುಬ೦ಧ </text></navLabel><content src="001-chapter001.xhtml#id-003"/>
+<navLabel><text>ಅನುಬಂಧ </text></navLabel><content src="001-chapter001.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
 <navLabel><text>ಸ್ವಪ್ನವಾಸವದತ್ತ</text></navLabel><content src="001-chapter001.xhtml#id-004"/>
@@ -37,16 +37,16 @@
 <navLabel><text>ಪ್ರತಿಮಾ ನಾಟಕ</text></navLabel><content src="001-chapter001.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ಪ೦ಚರಾತ್ರ</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
+<navLabel><text>ಪಂಚರಾತ್ರ</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ಏಕಾ೦ಕನಾಟಕಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
+<navLabel><text>ಏಕಾಂಕನಾಟಕಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
 <navLabel><text>ಇತರನಾಟಕಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಅನುಬ೦ಧ ೨</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
+<navLabel><text>ಅನುಬಂಧ ೨</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
 <navLabel><text>ಅನುಬಂಧ ೩</text></navLabel><content src="001-chapter001.xhtml#id-0010"/>
