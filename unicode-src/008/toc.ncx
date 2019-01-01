@@ -51,8 +51,5 @@
 <navPoint id="navPoint-12" playOrder="12">
 <navLabel><text>ಅನುಬಂಧ ೩</text></navLabel><content src="001-chapter001.xhtml#id-0010"/>
 </navPoint>
-<navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>ವಚನ ಭಾರತ</text></navLabel><content src="001-chapter001.xhtml#id-0011"/>
-</navPoint>
    </navMap>
 </ncx>
