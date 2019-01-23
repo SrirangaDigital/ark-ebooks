@@ -31,40 +31,40 @@
 <navLabel><text>ನನ್ನ ಸ್ನೇಹಿತ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಜ್ಯೋತಿಷಕ್ಕೆ ಬಹುಮಾನ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+<navLabel><text>ಜ್ಯೋತಿಷಕ್ಕೆ ಬಹುಮಾನ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಶಾನುಭೋಗನ ಪುಣ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-003"/>
+<navLabel><text>ಶಾನುಭೋಗನ ಪುಣ್ಯ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>“ದೇವರು ಇದ್ದಾನೆ”</text></navLabel><content src="001-chapter001.xhtml#id-004"/>
+<navLabel><text>“ದೇವರು ಇದ್ದಾನೆ”</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ನಾಗರ ಪಂಚಮಿ</text></navLabel><content src="001-chapter001.xhtml#id-005"/>
+<navLabel><text>ನಾಗರ ಪಂಚಮಿ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಹುಚ್ಚೋ ಅಲ್ಲವೋ?</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
+<navLabel><text>ಹುಚ್ಚೋ ಅಲ್ಲವೋ?</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಅಗ್ಗದ ಮದುವೆ</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
+<navLabel><text>ಅಗ್ಗದ ಮದುವೆ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>ಬಂಗಲಿಯ ವಾಸ</text></navLabel><content src="001-chapter001.xhtml#id-008"/>
+<navLabel><text>ಬಂಗಲಿಯ ವಾಸ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>ಗೋಟಿನಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡ ಕತ್ತರಿ</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
+<navLabel><text>ಗೋಟಿನಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡ ಕತ್ತರಿ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>ಅತ್ತೆ</text></navLabel><content src="001-chapter001.xhtml#id-010"/>
+<navLabel><text>ಅತ್ತೆ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>ಊಟದಲ್ಲಿ ಉಪಚಾರ</text></navLabel><content src="001-chapter001.xhtml#id-011"/>
+<navLabel><text>ಊಟದಲ್ಲಿ ಉಪಚಾರ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>ಗುರುಗಳ ಮಹಿಮೆ</text></navLabel><content src="001-chapter001.xhtml#id-012"/>
+<navLabel><text>ಗುರುಗಳ ಮಹಿಮೆ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>ಭೀಮಣ್ಣನ ಬುದ್ಧಿವಂತಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-013"/>
+<navLabel><text>ಭೀಮಣ್ಣನ ಬುದ್ಧಿವಂತಿಕೆ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 </navPoint>
    </navMap>
 </ncx>
