@@ -22,64 +22,67 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>೧. ಪೀಠಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>ಪ್ರಕಾಶಕರ ಮಾತು </text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>೨. ಸರ್ವಜ್ಞನ ಕಾಲ, ದೇಶ, ಮತ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+<navLabel><text>೧. ಪೀಠಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>೩. ಸರ್ವಜ್ಞ ವಚನಗಳ ಸ್ವರೂಪ</text></navLabel><content src="001-chapter001.xhtml#id-003"/>
+<navLabel><text>೨. ಸರ್ವಜ್ಞನ ಕಾಲ, ದೇಶ, ಮತ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>೪. ದೇವರು–ಗುರು–ಜ್ಞಾನಿ</text></navLabel><content src="001-chapter001.xhtml#id-004"/>
+<navLabel><text>೩. ಸರ್ವಜ್ಞ ವಚನಗಳ ಸ್ವರೂಪ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>೫. ಶಮದಮಾದಿ ಸಂಪತ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-005"/>
+<navLabel><text>೪. ದೇವರು–ಗುರು–ಜ್ಞಾನಿ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>೬. ವಿಧಿ-ಕರ್ಮ</text></navLabel><content src="001-chapter001.xhtml#id-006"/>
+<navLabel><text>೫. ಶಮದಮಾದಿ ಸಂಪತ್ತಿ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>೭. ಧರ್ಮಗಳು–ಮತಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-007"/>
+<navLabel><text>೬. ವಿಧಿ-ಕರ್ಮ</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>೮. ಸಜ್ಜನರು–ದುರ್ಜನರು: ಅವರ ಸಹವಾಸ</text></navLabel><content src="001-chapter001.xhtml#id-008"/>
+<navLabel><text>೭. ಧರ್ಮಗಳು–ಮತಗಳು</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>೯. ತ್ಯಾಗಬುದ್ಧಿ</text></navLabel><content src="001-chapter001.xhtml#id-009"/>
+<navLabel><text>೮. ಸಜ್ಜನರು–ದುರ್ಜನರು: ಅವರ ಸಹವಾಸ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>೧೦. ರಾಜ-ರಾಜಧರ್ಮ-ರಾಜಭಕ್ತಿ</text></navLabel><content src="001-chapter001.xhtml#id-010"/>
+<navLabel><text>೯. ತ್ಯಾಗಬುದ್ಧಿ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>೧೧. ಸಂಸಾರ - ಹೆಂಗಸರು</text></navLabel><content src="001-chapter001.xhtml#id-011"/>
+<navLabel><text>೧೦. ರಾಜ-ರಾಜಧರ್ಮ-ರಾಜಭಕ್ತಿ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>೧೨. ನಡೆ-ನುಡಿ</text></navLabel><content src="001-chapter001.xhtml#id-012"/>
+<navLabel><text>೧೧. ಸಂಸಾರ - ಹೆಂಗಸರು</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>೧೩. ಕಾಲಜ್ಞಾನ–ವಾದ–ವೈದ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-013"/>
+<navLabel><text>೧೨. ನಡೆ-ನುಡಿ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>೧೪. ಜ್ಯೋತಿಷ - ಶಕುನ</text></navLabel><content src="001-chapter001.xhtml#id-014"/>
+<navLabel><text>೧೩. ಕಾಲಜ್ಞಾನ–ವಾದ–ವೈದ್ಯ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>೧೫. ಒಗಟುಗಳು</text></navLabel><content src="001-chapter001.xhtml#id-015"/>
+<navLabel><text>೧೪. ಜ್ಯೋತಿಷ - ಶಕುನ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>೧೬. ನೀತಿಕಾವ್ಯ - ಸಾಹಿತ್ಯದಲ್ಲಿ ಅದರ ಸ್ಥಾನ</text></navLabel><content src="001-chapter001.xhtml#id-016"/>
+<navLabel><text>೧೫. ಒಗಟುಗಳು</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>೧೭. ಖಂಡನಕಾವ್ಯ - ವಿಡಂಬನಕಾವ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-017"/>
+<navLabel><text>೧೬. ನೀತಿಕಾವ್ಯ - ಸಾಹಿತ್ಯದಲ್ಲಿ ಅದರ ಸ್ಥಾನ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>೧೮. ಸರ್ವಜ್ಞನ ಶೈಲಿ</text></navLabel><content src="001-chapter001.xhtml#id-018"/>
+<navLabel><text>೧೭. ಖಂಡನಕಾವ್ಯ - ವಿಡಂಬನಕಾವ್ಯ ಅವುಗಳ ವಿಶೇಷಗುಣ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>೧೯. ತ್ರಿಪದಿ</text></navLabel><content src="001-chapter001.xhtml#id-019"/>
+<navLabel><text>೧೮. ಸರ್ವಜ್ಞನ ಶೈಲಿ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>೨೦. ಕೊನೆಮಾತು</text></navLabel><content src="001-chapter001.xhtml#id-020"/>
+<navLabel><text>೧೯. ತ್ರಿಪದಿ</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+</navPoint>
+<navPoint id="navPoint-23" playOrder="23">
+<navLabel><text>೨೦. ಕೊನೆಮಾತು</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
 </navPoint>
    </navMap>
 </ncx>
