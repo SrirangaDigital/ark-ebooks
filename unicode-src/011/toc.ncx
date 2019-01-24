@@ -22,21 +22,21 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಪೀಠಿಕೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>ಪೀಠಿಕೆ</text></navLabel><content src="000c-preface.xhtml#id-000c"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>॥ ಶ್ರೀರಸ್ತು ॥ಕವಿಜಿಹ್ವಾಬಂಧನಂ</text></navLabel><content src="001-chapter001.xhtml#id-002"/>
+<navLabel><text>॥ ಶ್ರೀರಸ್ತು ॥ಕವಿಜಿಹ್ವಾಬಂಧನಂ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ಪ್ರಥಮಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-002-01"/>
+<navLabel><text>ಪ್ರಥಮಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-001.01"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ದ್ವಿತೀಯಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-002-02"/>
+<navLabel><text>ದ್ವಿತೀಯಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-001.02"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ತೃತೀಯಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-002-03"/>
+<navLabel><text>ತೃತೀಯಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-001.03"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ಚತುರ್ಥಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-002-04"/>
+<navLabel><text>ಚತುರ್ಥಾಶ್ವಾಸಂ</text></navLabel><content src="001-chapter001.xhtml#id-001.04"/>
 </navPoint>
 </navPoint>
    </navMap>
