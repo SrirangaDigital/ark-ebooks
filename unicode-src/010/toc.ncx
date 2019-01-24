@@ -22,31 +22,37 @@
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
-<navLabel><text>ಮೊದಲನೆಯ ಅಧ್ಯಾಯ – ಜನನ ಮತ್ತು ಬಾಲ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>ಸಮರ್ಪಣ</text></navLabel><content src="000c-preface.xhtml#id-000c.1"/>
 </navPoint>
 <navPoint id="navPoint-4" playOrder="4">
-<navLabel><text>ಎರಡನೆಯ ಅಧ್ಯಾಯ – ಕಲ್ಕತ್ತೆಗೆ ಬಂದದ್ದು</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navLabel><text>ಅರಿಕೆ</text></navLabel><content src="000c-preface.xhtml#id-000c.2"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ಮೂರನೆಯ ಅಧ್ಯಾಯ – ಎರಡನೆಯ ಮದುವೆ ಮತ್ತು ವೈದ್ಯ ವ್ಯವಸಾಯ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navLabel><text>ಮೊದಲನೆಯ ಅಧ್ಯಾಯ  ಜನನ ಮತ್ತು ಬಾಲ್ಯ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ – ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದರ್ಶನ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navLabel><text>ಎರಡನೆಯ ಅಧ್ಯಾಯ ಕಲ್ಕತ್ತೆಗೆ ಬಂದದ್ದು</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಐದನೆಯ ಅಧ್ಯಾಯ – ಊರಿನಲ್ಲಿ ವಾಸ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navLabel><text>ಮೂರನೆಯ ಅಧ್ಯಾಯ ಎರಡನೆಯ ಮದುವೆ ಮತ್ತು ವೈದ್ಯ ವ್ಯವಸಾಯ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ಆರನೆಯ ಅಧ್ಯಾಯ – ಗೃಹಸ್ಥಾಶ್ರಮ ಮತ್ತು ಗುರುಸ್ಥಾನ</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navLabel><text>ನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯ  ಶ್ರೀ ರಾಮಕೃಷ್ಣ ದರ್ಶನ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ಏಳನೆಯ ಅಧ್ಯಾಯ – ಭಕ್ತ ಸಂಘದಲ್ಲಿ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navLabel><text>ಐದನೆಯ ಅಧ್ಯಾಯ ಊರಿನಲ್ಲಿ ವಾಸ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಎಂಟನೆಯ ಅಧ್ಯಾಯ – ಮಹಾಸಮಾಧಿ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navLabel><text>ಆರನೆಯ ಅಧ್ಯಾಯ ಗೃಹಸ್ಥಾಶ್ರಮ ಮತ್ತು ಗುರುಸ್ಥಾನ</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಪರಿಶಿಷ್ಟ – ನಾಗಮಹಾಶಯರು ರಚಿಸಿದ ಕೆಲವು ಗೀತೆಗಳು</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>ಏಳನೆಯ ಅಧ್ಯಾಯ  ಭಕ್ತ ಸಂಘದಲ್ಲಿ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+</navPoint>
+<navPoint id="navPoint-12" playOrder="12">
+<navLabel><text>ಎಂಟನೆಯ ಅಧ್ಯಾಯ  ಮಹಾಸಮಾಧಿ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+</navPoint>
+<navPoint id="navPoint-13" playOrder="13">
+<navLabel><text>ಪರಿಶಿಷ್ಟ  ನಾಗಮಹಾಶಯರು ರಚಿಸಿದ ಕೆಲವು ಗೀತೆಗಳು</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 </navPoint>
    </navMap>
 </ncx>
