@@ -26,6 +26,19 @@
             "pages": "82",
             "description": ""
         },
+        "006": {
+            "language": "kan",
+            "identifier": "ark_ebooks/006",
+            "isbn": "TBD-006",
+            "title": "ವಚನ ಭಾರತ / Vachana Bhaaratha",
+            "creators": {
+                "author": "A R Krishna Shastri"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "409",
+            "description": ""
+        },
          "008": {
             "language": "kan",
             "identifier": "ark_ebooks/008",
