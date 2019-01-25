@@ -3,14 +3,14 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:Whatever"/>
+      <meta name="dtb:uid" content="urn:isbn:TBD-002"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
 
    <docTitle>
-      <text>Whatever</text>
+      <text>ಭಾಷಣಗಳು ಮತ್ತು ಲೇಖನಗಳು / Bhashangalu maththu lekhanagalu</text>
    </docTitle>
 
    <navMap>
@@ -64,174 +64,171 @@
 <navLabel><text>೧೦  – ಸಂಬಳಿಗೋಲು</text></navLabel><content src="210-chapter010.xhtml#id-210"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>೧೧  – ಗದಾಯುದ್ಧ ನಾಟಕ ಮತ್ತು ಅದರ ನಾಯಕ</text></navLabel><content src="210-chapter011.xhtml#id-211"/>
-</navPoint>
-<navPoint id="navPoint-18" playOrder="18">
 <navLabel><text>೧೧  – ಗದಾಯುದ್ಧ ನಾಟಕ ಮತ್ತು ಅದರ ನಾಯಕ</text></navLabel><content src="211-chapter011.xhtml#id-211"/>
 </navPoint>
-<navPoint id="navPoint-19" playOrder="19">
+<navPoint id="navPoint-18" playOrder="18">
 <navLabel><text>೧೨  – ಕನ್ನಡ ಕವಿವರ್ಯ ಶ್ರೀ ಕೆ.ವಿ. ಪುಟ್ಟಪ್ಪನವರು</text></navLabel><content src="212-chapter012.xhtml#id-212"/>
 </navPoint>
-<navPoint id="navPoint-20" playOrder="20">
+<navPoint id="navPoint-19" playOrder="19">
 <navLabel><text>೧೩  – ಅತ್ತಿಗೆ</text></navLabel><content src="213-chapter013.xhtml#id-213"/>
 </navPoint>
-<navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>ಲೇಖನಗಳು -  ೨</text></navLabel><content src="300-part1.xhtml#id-200"/>
+<navPoint id="navPoint-20" playOrder="20">
+<navLabel><text>ಲೇಖನಗಳು -  ೨</text></navLabel><content src="300-part1.xhtml#id-300"/>
 </navPoint>
-<navPoint id="navPoint-22" playOrder="22">
+<navPoint id="navPoint-21" playOrder="21">
 <navLabel><text>೧  – ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕದ ಹುಟ್ಟು ಮತ್ತು ಬೆಳವಣಿಗೆ</text></navLabel><content src="301-chapter001.xhtml#id-301"/>
 </navPoint>
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel><text>೨  – ಕನ್ನಡ ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿಗಳು</text></navLabel><content src="302-chapter002.xhtml#id-302"/>
+</navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>೨  – ಕನ್ನಡ ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿಗಳು</text></navLabel><content src="302-chapter002.xhtml#id-301"/>
+<navLabel><text>೩  – ಮೈಸೂರು ಚರಿತ್ರೆಯ ಮೇಲೆ ಕಾದಂಬರಿಗಳನ್ನು ಬರೆಯುವುದಕ್ಕೆ ಇರತಕ್ಕ ಸಾಮಗ್ರಿಗಳು</text></navLabel><content src="303-chapter003.xhtml#id-303"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>೩  – ಮೈಸೂರು ಚರಿತ್ರೆಯ ಮೇಲೆ ಕಾದಂಬರಿಗಳನ್ನು ಬರೆಯುವುದಕ್ಕೆ ಇರತಕ್ಕ ಸಾಮಗ್ರಿಗಳು</text></navLabel><content src="303-chapter003.xhtml#id-301"/>
-</navPoint>
-<navPoint id="navPoint-25" playOrder="25">
 <navLabel><text>೪.  – ಅಲಂಕಾರ ಶಾಸ್ತ್ರದ ಚರಿತ್ರೆ</text></navLabel><content src="304-chapter004.xhtml#id-304"/>
 </navPoint>
-<navPoint id="navPoint-26" playOrder="26">
+<navPoint id="navPoint-25" playOrder="25">
 <navLabel><text>೫.  – ದಿವಂಗತ ಶ್ರೀಮಾನ್​ ಎಂ.ಆರ್​. ಶ್ರೀನಿವಾಸಮೂರ್ತಿಗಳು</text></navLabel><content src="305-chapter005.xhtml#id-305"/>
 </navPoint>
-<navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>೬.  – </text></navLabel><content src="306-chapter006.xhtml#id-305"/>
+<navPoint id="navPoint-26" playOrder="26">
+<navLabel><text>೬.  – </text></navLabel><content src="306-chapter006.xhtml#id-306"/>
 </navPoint>
-<navPoint id="navPoint-28" playOrder="28">
+<navPoint id="navPoint-27" playOrder="27">
 <navLabel><text>ಲೇಖನಗಳು -  ೩</text></navLabel><content src="400-part1.xhtml#id-400"/>
 </navPoint>
-<navPoint id="navPoint-29" playOrder="29">
+<navPoint id="navPoint-28" playOrder="28">
 <navLabel><text>೧  – ಪೂರ್ಣಕಲಾ</text></navLabel><content src="401-chapter001.xhtml#id-401"/>
 </navPoint>
+<navPoint id="navPoint-29" playOrder="29">
+<navLabel><text>೨.  – ವಿಷವೃಕ್ಷ</text></navLabel><content src="402-chapter002.xhtml#id-402"/>
+</navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>೨.  – ವಿಷವೃಕ್ಷ</text></navLabel><content src="402-chapter002.xhtml#id-401"/>
+<navLabel><text>೩  – ರತ್ನಾವಳಿ : ಮಿತ್ರವಿಂದಾ ಗೋವಿಂದ</text></navLabel><content src="403-chapter003.xhtml#id-403"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>೩  – ರತ್ನಾವಳಿ : ಮಿತ್ರವಿಂದಾ ಗೋವಿಂದ</text></navLabel><content src="403-chapter003.xhtml#id-401"/>
-</navPoint>
-<navPoint id="navPoint-32" playOrder="32">
 <navLabel><text>೪  – ಕೆಲವು ಸಣ್ಣ ಕಥೆಗಳು</text></navLabel><content src="404-chapter004.xhtml#id-404"/>
 </navPoint>
-<navPoint id="navPoint-33" playOrder="33">
+<navPoint id="navPoint-32" playOrder="32">
 <navLabel><text>೫  – ಕೃಷ್ಣಕಾಂತನ ಉಯಿಲು</text></navLabel><content src="405-chapter005.xhtml#id-405"/>
 </navPoint>
-<navPoint id="navPoint-34" playOrder="34">
+<navPoint id="navPoint-33" playOrder="33">
 <navLabel><text>೬  –  ವಸಂಥ ಕುಸುಮಾಂಜಲಿ</text></navLabel><content src="406-chapter006.xhtml#id-406"/>
 </navPoint>
-<navPoint id="navPoint-35" playOrder="35">
+<navPoint id="navPoint-34" playOrder="34">
 <navLabel><text>೭  – ಟೊಳ್ಳುಗಟ್ಟಿ ಅಥ್ವಾ ಮಕ್ಕಳಿಸ್ಕೂಲ್​ ಮನೇಲಲ್ವೇ ?</text></navLabel><content src="407-chapter007.xhtml#id-407"/>
 </navPoint>
-<navPoint id="navPoint-36" playOrder="36">
+<navPoint id="navPoint-35" playOrder="35">
 <navLabel><text>೮  – ಪ್ರಣಯಾವರ್ತ ಅಥವಾ ಚಂಚಲಕುಮಾರಿ</text></navLabel><content src="408-chapter008.xhtml#id-408"/>
 </navPoint>
-<navPoint id="navPoint-37" playOrder="37">
+<navPoint id="navPoint-36" playOrder="36">
 <navLabel><text>೯  – ಸಾಹಿತ್ಯ</text></navLabel><content src="409-chapter009.xhtml#id-409"/>
 </navPoint>
-<navPoint id="navPoint-38" playOrder="38">
+<navPoint id="navPoint-37" playOrder="37">
 <navLabel><text>೧೦  – ಶ್ರೀ ಸಮರ್ಥ ರಾಮದಾಸ ಸ್ವಾಮಿಗಳ ಚರಿತ್ರವು</text></navLabel><content src="410-chapter010.xhtml#id-410"/>
 </navPoint>
-<navPoint id="navPoint-39" playOrder="39">
+<navPoint id="navPoint-38" playOrder="38">
 <navLabel><text>೧೧  – ವಿದ್ಯಾರಣ್ಯ ವಿಜಯ</text></navLabel><content src="411-chapter011.xhtml#id-411"/>
 </navPoint>
-<navPoint id="navPoint-40" playOrder="40">
+<navPoint id="navPoint-39" playOrder="39">
 <navLabel><text>೧೨  – ಅರುಣ, ಕಮಲ</text></navLabel><content src="412-chapter012.xhtml#id-412"/>
 </navPoint>
-<navPoint id="navPoint-41" playOrder="41">
+<navPoint id="navPoint-40" playOrder="40">
 <navLabel><text>ಲೇಖನಗಳು - ೪</text></navLabel><content src="500-part1.xhtml#id-500"/>
 </navPoint>
-<navPoint id="navPoint-42" playOrder="42">
+<navPoint id="navPoint-41" playOrder="41">
 <navLabel><text>ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕ ಮತ್ತು ಸಾಹಿತ್ಯ</text></navLabel><content src="501-chapter001.xhtml#id-501"/>
 </navPoint>
-<navPoint id="navPoint-43" playOrder="43">
+<navPoint id="navPoint-42" playOrder="42">
 <navLabel><text>ಕಲ್ಕತ್ತಾ ವಿಶ್ವವಿದ್ಯಾನಿಲಯದಲ್ಲಿ ಕನ್ನಡ</text></navLabel><content src="502-chapter002.xhtml#id-502"/>
 </navPoint>
-<navPoint id="navPoint-44" playOrder="44">
-<navLabel><text>ಪ್ರಾಕ್ತನ ವಿಮರ್ಶ ವಿಚಕ್ಷಣ ರಾವ್​ ಬಹದ್ದೂರ್​ ಆರ್​. ನರಸಿಂಹಾಚಾರ್ಯರು, (M.A., M.R.A.S.)</text></navLabel><content src="503-chapter003 .xhtml#id-503"/>
+<navPoint id="navPoint-43" playOrder="43">
+<navLabel><text>ಪ್ರಾಕ್ತನ ವಿಮರ್ಶ ವಿಚಕ್ಷಣ ರಾವ್​ ಬಹದ್ದೂರ್​ ಆರ್​. ನರಸಿಂಹಾಚಾರ್ಯರು, (M.A., M.R.A.S.)</text></navLabel><content src="503-chapter003.xhtml#id-503"/>
 </navPoint>
-<navPoint id="navPoint-45" playOrder="45">
+<navPoint id="navPoint-44" playOrder="44">
 <navLabel><text>ದೇಶಭಾಷೆಯಲ್ಲಿ ಪಾಠಪ್ರವಚನಗಳು</text></navLabel><content src="504-chapter004.xhtml#id-504"/>
 </navPoint>
-<navPoint id="navPoint-46" playOrder="46">
+<navPoint id="navPoint-45" playOrder="45">
 <navLabel><text>ಪುಸ್ತಕ ಭಂಡಾರಗಳು ಮತ್ತು ಮೈಸೂರು</text></navLabel><content src="505-chapter005.xhtml#id-505"/>
 </navPoint>
-<navPoint id="navPoint-47" playOrder="47">
+<navPoint id="navPoint-46" playOrder="46">
 <navLabel><text>ಕನ್ನಡಕ್ಕೆ ಪ್ರೋತ್ಸಾಹ: ಬಹುಮಾನ</text></navLabel><content src="506-chapter006.xhtml#id-506"/>
 </navPoint>
-<navPoint id="navPoint-48" playOrder="48">
+<navPoint id="navPoint-47" playOrder="47">
 <navLabel><text>ಮ. ಎಚ್​.ವಿ. ವರದರಾಜಯ್ಯಂಗಾರ್ಯರಿಗೆ ಅಭಿನಂದನೆ</text></navLabel><content src="507-chapter007.xhtml#id-507"/>
 </navPoint>
-<navPoint id="navPoint-49" playOrder="49">
+<navPoint id="navPoint-48" playOrder="48">
 <navLabel><text>ಕನ್ನಡಕ್ಕೆ ಒಂದು ಕಿರೀಟ</text></navLabel><content src="508-chapter008.xhtml#id-508"/>
 </navPoint>
-<navPoint id="navPoint-50" playOrder="50">
+<navPoint id="navPoint-49" playOrder="49">
 <navLabel><text>ಶ್ರೇಯಾಂಸಿ ಬಹುವಿಘ್ನಾನಿ</text></navLabel><content src="509-chapter009.xhtml#id-509"/>
 </navPoint>
-<navPoint id="navPoint-51" playOrder="51">
+<navPoint id="navPoint-50" playOrder="50">
 <navLabel><text>ನಮ್ಮ ದೇಶದಲ್ಲಿ ಸಂಸ್ಕೃತದ ಸ್ಥಿತಿ, ಕನ್ನಡದ ಸ್ಥಿತಿ</text></navLabel><content src="510-chapter010.xhtml#id-510"/>
 </navPoint>
-<navPoint id="navPoint-52" playOrder="52">
+<navPoint id="navPoint-51" playOrder="51">
 <navLabel><text>ಕನ್ನಡದ ಪುಣ್ಯ</text></navLabel><content src="511-chapter011.xhtml#id-511"/>
 </navPoint>
-<navPoint id="navPoint-53" playOrder="53">
+<navPoint id="navPoint-52" playOrder="52">
 <navLabel><text>ಸರಸ್ವತಿಯ ಮನೆಯಲ್ಲಿ ಕಳವು</text></navLabel><content src="512-chapter012.xhtml#id-512"/>
 </navPoint>
-<navPoint id="navPoint-54" playOrder="54">
+<navPoint id="navPoint-53" playOrder="53">
 <navLabel><text>ಅರ್ಧನಾರೀಶ್ವರ ಚಿತ್ರ</text></navLabel><content src="513-chapter013.xhtml#id-513"/>
 </navPoint>
-<navPoint id="navPoint-55" playOrder="55">
+<navPoint id="navPoint-54" playOrder="54">
 <navLabel><text>ಶ್ರೀ ಕೃಷ್ಣರಾಜ ರಜತಮಹೋತ್ಸವ</text></navLabel><content src="514-chapter014.xhtml#id-514"/>
 </navPoint>
-<navPoint id="navPoint-56" playOrder="56">
+<navPoint id="navPoint-55" playOrder="55">
 <navLabel><text>ಸಮುದ್ರದ ನೆಂಟು, ಉಪ್ಪಿಗೆ ಬಡತನ</text></navLabel><content src="515-chapter015.xhtml#id-515"/>
 </navPoint>
-<navPoint id="navPoint-57" playOrder="57">
+<navPoint id="navPoint-56" playOrder="56">
 <navLabel><text>ಮಿ. ಲೂಯಿ ರೈಸ್​, ಸಿ.ಐ.ಇ.</text></navLabel><content src="516-chapter016.xhtml#id-516"/>
 </navPoint>
-<navPoint id="navPoint-58" playOrder="58">
+<navPoint id="navPoint-57" playOrder="57">
 <navLabel><text>ಕಥೆ ಬರೆಯುವವರಿಗೆ ಒಂದು ಮಾತು</text></navLabel><content src="517-chapter017.xhtml#id-517"/>
 </navPoint>
-<navPoint id="navPoint-59" playOrder="59">
+<navPoint id="navPoint-58" playOrder="58">
 <navLabel><text>ಮೈಸೂರು ಮತ್ತು ಕನ್ನಡ</text></navLabel><content src="518-chapter018.xhtml#id-518"/>
 </navPoint>
-<navPoint id="navPoint-60" playOrder="60">
+<navPoint id="navPoint-59" playOrder="59">
 <navLabel><text>ಅಶ್ವತ್ಥಾಮನ್</text></navLabel><content src="519-chapter019.xhtml#id-519"/>
 </navPoint>
-<navPoint id="navPoint-61" playOrder="61">
+<navPoint id="navPoint-60" playOrder="60">
 <navLabel><text>ಕೀರ್ತನೆಗಳಲ್ಲಿ ಸಾಹಿತ್ಯಗುಣ</text></navLabel><content src="520-chapter020.xhtml#id-520"/>
 </navPoint>
-<navPoint id="navPoint-62" playOrder="62">
+<navPoint id="navPoint-61" playOrder="61">
 <navLabel><text>ಕನ್ನಡಮಾತು ಒಂದಾಗಬೇಕು, ಶುದ್ಧವಾಗಿರಬೇಕು</text></navLabel><content src="521-chapter021.xhtml#id-521"/>
 </navPoint>
-<navPoint id="navPoint-63" playOrder="63">
+<navPoint id="navPoint-62" playOrder="62">
 <navLabel><text>ಗಾನವಿಶಾರದ ಬಿ.ಕೃಷ್ಣಪ್ಪನವರ ಸಂಗೀತ</text></navLabel><content src="522-chapter022.xhtml#id-522"/>
 </navPoint>
-<navPoint id="navPoint-64" playOrder="64">
+<navPoint id="navPoint-63" playOrder="63">
 <navLabel><text>ಈಗಿನ ಯುವಕ ವಿದ್ಯಾರ್ಥಿಗಳು</text></navLabel><content src="523-chapter023.xhtml#id-523"/>
 </navPoint>
-<navPoint id="navPoint-65" playOrder="65">
+<navPoint id="navPoint-64" playOrder="64">
 <navLabel><text>ಕನ್ನಡದ ಮನೆಯಲ್ಲಿ ಕನ್ನಡಕ್ಕೆ ಸ್ಥಾನ</text></navLabel><content src="524-chapter024.xhtml#id-524"/>
 </navPoint>
-<navPoint id="navPoint-66" playOrder="66">
+<navPoint id="navPoint-65" playOrder="65">
 <navLabel><text>ಶ್ರೀ ಗೊಮ್ಮಟೇಶ್ವರ ಸ್ವಾಮಿ</text></navLabel><content src="525-chapter025.xhtml#id-525"/>
 </navPoint>
-<navPoint id="navPoint-67" playOrder="67">
+<navPoint id="navPoint-66" playOrder="66">
 <navLabel><text>ಕೀರ್ತಿಶೇಷರಾದ ಶ್ರೀಮನ್ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜವೊಡೆಯರ್​ ಬಹದ್ದೂರ್​, ಜಿ.ಸಿ.ಎಸ್​.ಐ.,ಜಿ.ಬಿ.ಇ., ಮಹಾಪ್ರಭುಗಳವರು.</text></navLabel><content src="526-chapter026.xhtml#id-526"/>
 </navPoint>
-<navPoint id="navPoint-68" playOrder="68">
+<navPoint id="navPoint-67" playOrder="67">
 <navLabel><text>ಶುಭಾಶಂಸನ</text></navLabel><content src="527-chapter027.xhtml#id-527"/>
 </navPoint>
-<navPoint id="navPoint-69" playOrder="69">
+<navPoint id="navPoint-68" playOrder="68">
 <navLabel><text>ಕನ್ನಡದ ಕೆಲಸಗಳಿಗೆ ಜನ, ಧನ, ಅಭಿಮಾನ</text></navLabel><content src="528-chapter028.xhtml#id-528"/>
 </navPoint>
-<navPoint id="navPoint-70" playOrder="70">
+<navPoint id="navPoint-69" playOrder="69">
 <navLabel><text>ಕೀರ್ತಿಶೇಷರಾದ ಶ್ರೀ ರವೀಂದ್ರನಾಥ ಠಾಕೂರರವರು</text></navLabel><content src="529-chapter029.xhtml#id-529"/>
 </navPoint>
-<navPoint id="navPoint-71" playOrder="71">
+<navPoint id="navPoint-70" playOrder="70">
 <navLabel><text>ರಾಜಸೇವಾಸಕ್ತ  ಶ್ರಿಮಾನ್​ ಬಿ.ಎಂ.ಶ್ರೀಕಂಠಯ್ಯನವರು</text></navLabel><content src="530-chapter030.xhtml#id-530"/>
 </navPoint>
-<navPoint id="navPoint-72" playOrder="72">
+<navPoint id="navPoint-71" playOrder="71">
 <navLabel><text>ಕನ್ನಡಕ್ಕೆ ಒಂದು ಗುಡಿ</text></navLabel><content src="531-chapter031.xhtml#id-531"/>
 </navPoint>
-<navPoint id="navPoint-73" playOrder="73">
+<navPoint id="navPoint-72" playOrder="72">
 <navLabel><text>ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದಲ್ಲಿ ಕನ್ನಡದ ಮಾಧ್ಯಮ</text></navLabel><content src="532-chapter032.xhtml#id-532"/>
 </navPoint>
    </navMap>
