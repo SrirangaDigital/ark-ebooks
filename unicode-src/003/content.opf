@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="isbn">
+	<metadata  xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title>ಸಂಸ್ಕೃತ ನಾಟಕ / Samskritha Nataka</dc:title>
+		<dc:language>kan</dc:language>
+		<dc:identifier id="isbn">urn:isbn:TBD-003</dc:identifier>
+		
+		<dc:creator id="author1">A R Krishna Shastri</dc:creator>
+		<meta refines="#author1" property="role" scheme="marc:relators">aut</meta>    
+				
+		<dc:creator id="bookDesigner1">Sriranga Digital Software Technologies Private Limited</dc:creator>
+		<meta refines="#bookDesigner1" property="role" scheme="marc:relators">bkd</meta>    
+				
+		<dc:publisher>Sriranga Digital</dc:publisher>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>		
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
+		<meta property="schema:accessibilityAPI">ARIA</meta>
+		<meta property="dcterms:modified">2019-01-25T15:34:47Z</meta>
+	</metadata>
+	<manifest>
+		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000b-copyright_xhtml" href="000b-copyright.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-000c-preface_xhtml" href="000c-preface.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-001chapter_001_xhtml" href="001chapter_001.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-002chapter_002_xhtml" href="002chapter_002.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-003chapter_003_xhtml" href="003chapter_003.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-004chapter_004_xhtml" href="004chapter_004.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
+		<item id="id-css_GentiumPlus-I_ttf" href="css/GentiumPlus-I.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_NUDIUNI01K_ttf" href="css/NUDIUNI01K.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
+		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
+
+	</manifest>
+	<spine toc="id-toc_ncx">
+		<itemref idref="id-000a-title_xhtml" linear="yes" />
+		<itemref idref="id-000b-copyright_xhtml" linear="yes" />
+		<itemref idref="id-000c-preface_xhtml" linear="yes" />
+		<itemref idref="id-001chapter_001_xhtml" linear="yes" />
+		<itemref idref="id-002chapter_002_xhtml" linear="yes" />
+		<itemref idref="id-003chapter_003_xhtml" linear="yes" />
+		<itemref idref="id-004chapter_004_xhtml" linear="yes" />
+		<itemref idref="id-999-aside_xhtml" linear="yes" />
+
+	</spine>
+</package>

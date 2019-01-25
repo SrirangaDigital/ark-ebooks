@@ -10,7 +10,7 @@
             },
             "category": "",
             "publisher": "Sriranga Digital",
-            "pages": "171",
+            "pages": "168",
             "description": ""
         },
         "002": {
@@ -23,7 +23,20 @@
             },
             "category": "",
             "publisher": "Sriranga Digital",
-            "pages": "82",
+            "pages": "63",
+            "description": ""
+        },
+        "003": {
+            "language": "kan",
+            "identifier": "ark_ebooks/002",
+            "isbn": "TBD-003",
+            "title": "ಸಂಸ್ಕೃತ ನಾಟಕ / Samskritha Nataka",
+            "creators": {
+                "author": "A R Krishna Shastri"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "330",
             "description": ""
         },
         "004": {
