@@ -1,18 +1,21 @@
 @font-face {
-  font-family: 'Mandali';
-  font-style: normal;
-  src: url('Mandali-Regular.ttf');
+	font-family: 'Gentium';
+	src: url('GentiumPlus-R.ttf');
 }
 @font-face {
-  font-family: 'Krushnadevaraya';
-  font-style: italic;
-  src: url('Sree_Krushnadevaraya.ttf');
+	font-family: 'Gentium';
+	font-style: italic;
+	src: url('GentiumPlus-I.ttf');
+}
+@font-face {
+	font-family: 'Nudi';
+	src: url('NUDIUNI01K.ttf');
+	unicode-range: U+0C80-0CFF;
 }
 body {
-	font-family: "Mandali", sans-serif; 	
+	font-family: "Gentium", "Nudi", sans-serif; 	
 	font-size: 1em;
 	box-sizing: border-box;
-	-epub-hyphens:auto;
 }
 .maintext section {
 	margin-bottom: 2em;
@@ -21,21 +24,14 @@ body {
 	page-break-before: always;
 }
 .maintext h1.level1-title {
-	text-align: center;
 	font-size: 2em;
-	color: #283593;
+	color: #0277BD;
 	font-weight: normal;
 	line-height: 1.2em;
-    background: #fff url(pattern.png) center center;
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    padding-top: 40px;
-    padding-bottom: 40px;
 }
 .maintext h2.level2-title {
-	text-align: center;
-	font-weight: normal;
 	font-size: 1.5em;
+	font-weight: normal;
 	margin-bottom: 0;
 }
 .maintext h2.article-author {
@@ -65,21 +61,9 @@ body {
 .maintext h5.para-title+p {
 	margin-top: 0;
 }
-.maintext p{
-	text-indent: 2.5em;
-	orphans: 1;
-	widows: 1;
-	text-align: justify;
-	-epub-text-align-last:left;
-	-epub-line-break:normal;
-}
-.maintext p.no-indent{
-	text-indent: 0em !important;
-}
-.maintext .img-center{
-	display: block;
-	margin: 0 auto;
-	text-align: center;
+.maintext span.heading,
+.maintext p.heading {
+	font-weight:bold;
 }
 .maintext h1.level1-title,
 .maintext h2.level2-title,
@@ -88,10 +72,6 @@ body {
 .maintext h5.level5-title,
 .maintext h5.para-title{
 	page-break-after: avoid;
-	/*font-family: "Krushnadevaraya", sans-serif !important;*/
-	-epub-hyphens:none;
-	orphans:1;
-	widows:1;
 }
 .maintext h1.level1-title+p,
 .maintext h2.level2-title+p,
@@ -118,30 +98,21 @@ body {
 }
 .maintext .myquote, .maintext .verse {
 	margin: 0.5em 0 0.5em 1.5em;
-	text-indent: 0em !important;
-}
-.maintext .myquote .myquote-indent{
-	margin: 0.5em 0 0.5em 1.5em;
-	text-indent: 0em !important;
-}
-.maintext ul p,
-.maintext ol p {
-	text-indent: 0em !important;	
 }
 .maintext a{
-	color: #283593;
+	color: #0277BD;
 }
-.maintext h1.level1-title span {
+.maintext h1.level1-title span.num {
 	display: block;
 	margin-bottom: 0.5em;
-}
-.maintext h1.level1-title span:first-of-type {
 	font-style: italic;
 }
 .maintext h3.level3-title+p {
 	margin-top: 0.5em;
 }
 .maintext h2.article-author:before,
+.maintext span.verse-author:before,
+.maintext p.verse-author:before,
 .maintext span.quote-author:before,
 .maintext p.quote-author:before {
 	content: '–';
@@ -152,8 +123,6 @@ body {
 }
 .maintext span.quote-author,
 .maintext p.quote-author,
-.maintext span.text-right,
-.maintext p.text-right,
 .maintext span.verse-num,
 .maintext p.verse-num,
 .maintext span.verse-author,
@@ -173,8 +142,7 @@ body {
 }
 .maintext .hide,
 .maintext .index,
-.titlepage .hide,
-.hide {
+.titlepage .hide{
 	display: none;
 }
 .maintext span.italic {
@@ -184,45 +152,35 @@ body {
 	text-decoration: none;
 	padding: 0 0.125em;
 }
+.maintext .text-right {
+	text-align: right;
+}
 .maintext .text-center {
 	text-align: center;
-	-epub-text-align-last: center !important;
+}
+span.text-center{
+text-align: center;
 }
 .maintext img.logo,
 .titlepage img.logo{
 	width: 33%;
 	max-width: 100px;
 }
-.maintext img{
-	display: block;
-	margin: 0 auto;
-	text-align: center;
-} 
-.maintext figure{
-	display: block;
-	margin: 0 auto;
-	text-align: center;
-} 
 .maintext .vertical-delimiter {
 	margin: 1em 0;
 	text-align: center;	
-	background: #fff url(vertical-delimiter.png) center center;
-	background-repeat: no-repeat;
-	background-position: center bottom;
-	padding-bottom: 60px;
 }
 .maintext .vertical-delimiter:after {
-	/*content: '***';*/
+	content: '***';
 }
 .titlepage{
 	text-align: center;
 }
 .titlepage .title{
 	font-size: 2em;
-	color: #283593;
+	color: #0277BD;
 }
-.titlepage .author, 
-.titlepage .titleauthor{
+.titlepage .author{
 	font-size: 1.5em;
 }
 .titlepage .publisher{
@@ -244,20 +202,4 @@ body {
 }
 .maintext small, .titlepage small {
 	font-size: 0.65em;
-}
-.maintext .footnote-head{
-	font-size: 2em;
-	color: #283593;
-	font-weight: normal;
-	line-height: 1.2em;
-}
-.myquote, .verse, .text-center, .vertical-delimiter, .text-left, .text-right {
-	text-indent: 0em !important;
-}
-.text-left{
-	text-align: left !important;
-}
-.text-right {
-	text-align: right !important;
-	-epub-text-align-last: right !important;
 }
