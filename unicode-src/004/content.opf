@@ -8,7 +8,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2019-01-25T13:02:30Z</meta>
+		<meta property="dcterms:modified">2019-01-25T13:52:02Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -27,7 +27,6 @@
 		<item id="id-208-chapter008_xhtml" href="208-chapter008.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-209-chapter009_xhtml" href="209-chapter009.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-210-chapter010_xhtml" href="210-chapter010.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-210-chapter011_xhtml" href="210-chapter011.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-211-chapter011_xhtml" href="211-chapter011.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-212-chapter012_xhtml" href="212-chapter012.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-213-chapter013_xhtml" href="213-chapter013.xhtml" media-type="application/xhtml+xml" />
@@ -54,7 +53,7 @@
 		<item id="id-500-part1_xhtml" href="500-part1.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-501-chapter001_xhtml" href="501-chapter001.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-502-chapter002_xhtml" href="502-chapter002.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-503-chapter003 _xhtml" href="503-chapter003 .xhtml" media-type="application/xhtml+xml" />
+		<item id="id-503-chapter003_xhtml" href="503-chapter003.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-504-chapter004_xhtml" href="504-chapter004.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-505-chapter005_xhtml" href="505-chapter005.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-506-chapter006_xhtml" href="506-chapter006.xhtml" media-type="application/xhtml+xml" />
@@ -92,6 +91,7 @@
 		<item id="id-css_vertical-delimiter_png" href="css/vertical-delimiter.png" media-type="image/png" />
 		<item id="id-images_0001_jpg" href="images/0001.jpg" media-type="image/jpeg" />
 		<item id="id-images_0002_jpg" href="images/0002.jpg" media-type="image/jpeg" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
@@ -113,7 +113,6 @@
 		<itemref idref="id-208-chapter008_xhtml" linear="yes" />
 		<itemref idref="id-209-chapter009_xhtml" linear="yes" />
 		<itemref idref="id-210-chapter010_xhtml" linear="yes" />
-		<itemref idref="id-210-chapter011_xhtml" linear="yes" />
 		<itemref idref="id-211-chapter011_xhtml" linear="yes" />
 		<itemref idref="id-212-chapter012_xhtml" linear="yes" />
 		<itemref idref="id-213-chapter013_xhtml" linear="yes" />
@@ -140,7 +139,7 @@
 		<itemref idref="id-500-part1_xhtml" linear="yes" />
 		<itemref idref="id-501-chapter001_xhtml" linear="yes" />
 		<itemref idref="id-502-chapter002_xhtml" linear="yes" />
-		<itemref idref="id-503-chapter003 _xhtml" linear="yes" />
+		<itemref idref="id-503-chapter003_xhtml" linear="yes" />
 		<itemref idref="id-504-chapter004_xhtml" linear="yes" />
 		<itemref idref="id-505-chapter005_xhtml" linear="yes" />
 		<itemref idref="id-506-chapter006_xhtml" linear="yes" />
