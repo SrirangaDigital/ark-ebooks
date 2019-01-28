@@ -19,7 +19,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilitySummary">The publication is missing alternative text for complex diagrams.</meta>
 		<meta property="schema:accessibilityAPI">ARIA</meta>
-		<meta property="dcterms:modified">2019-01-25T17:57:30Z</meta>
+		<meta property="dcterms:modified">2019-01-28T18:00:46Z</meta>
 	</metadata>
 	<manifest>
 		<item id="id-000a-title_xhtml" href="000a-title.xhtml" media-type="application/xhtml+xml" />
@@ -50,11 +50,43 @@
 		<item id="id-019-chapter019_xhtml" href="019-chapter019.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-020-chapter020_xhtml" href="020-chapter020.xhtml" media-type="application/xhtml+xml" />
 		<item id="id-999-aside_xhtml" href="999-aside.xhtml" media-type="application/xhtml+xml" />
-		<item id="id-css_Mandali-Regular_ttf" href="css/Mandali-Regular.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-css_Sree_Krushnadevaraya_ttf" href="css/Sree_Krushnadevaraya.ttf" media-type="application/vnd.ms-opentype" />
-		<item id="id-css_pattern_png" href="css/pattern.png" media-type="image/png" />
+		<item id="id-css_GentiumPlus-I_ttf" href="css/GentiumPlus-I.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_GentiumPlus-R_ttf" href="css/GentiumPlus-R.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="id-css_NUDIUNI01K_ttf" href="css/NUDIUNI01K.ttf" media-type="application/vnd.ms-opentype" />
 		<item id="id-css_style_css" href="css/style.css" media-type="text/css" />
-		<item id="id-css_vertical-delimiter_png" href="css/vertical-delimiter.png" media-type="image/png" />
+		<item id="id-images_0001_jpg" href="images/0001.jpg" media-type="image/jpeg" />
+		<item id="id-images_0002_jpg" href="images/0002.jpg" media-type="image/jpeg" />
+		<item id="id-images_0003_jpg" href="images/0003.jpg" media-type="image/jpeg" />
+		<item id="id-images_0004_jpg" href="images/0004.jpg" media-type="image/jpeg" />
+		<item id="id-images_0005_jpg" href="images/0005.jpg" media-type="image/jpeg" />
+		<item id="id-images_0006_jpg" href="images/0006.jpg" media-type="image/jpeg" />
+		<item id="id-images_0007_jpg" href="images/0007.jpg" media-type="image/jpeg" />
+		<item id="id-images_0008_jpg" href="images/0008.jpg" media-type="image/jpeg" />
+		<item id="id-images_0009_jpg" href="images/0009.jpg" media-type="image/jpeg" />
+		<item id="id-images_0010_jpg" href="images/0010.jpg" media-type="image/jpeg" />
+		<item id="id-images_0011_jpg" href="images/0011.jpg" media-type="image/jpeg" />
+		<item id="id-images_0012_jpg" href="images/0012.jpg" media-type="image/jpeg" />
+		<item id="id-images_0013_jpg" href="images/0013.jpg" media-type="image/jpeg" />
+		<item id="id-images_0014_jpg" href="images/0014.jpg" media-type="image/jpeg" />
+		<item id="id-images_0015_jpg" href="images/0015.jpg" media-type="image/jpeg" />
+		<item id="id-images_0016_jpg" href="images/0016.jpg" media-type="image/jpeg" />
+		<item id="id-images_0017_jpg" href="images/0017.jpg" media-type="image/jpeg" />
+		<item id="id-images_0018_jpg" href="images/0018.jpg" media-type="image/jpeg" />
+		<item id="id-images_0019_jpg" href="images/0019.jpg" media-type="image/jpeg" />
+		<item id="id-images_0020_jpg" href="images/0020.jpg" media-type="image/jpeg" />
+		<item id="id-images_0021_jpg" href="images/0021.jpg" media-type="image/jpeg" />
+		<item id="id-images_0022_jpg" href="images/0022.jpg" media-type="image/jpeg" />
+		<item id="id-images_0023_jpg" href="images/0023.jpg" media-type="image/jpeg" />
+		<item id="id-images_0024_jpg" href="images/0024.jpg" media-type="image/jpeg" />
+		<item id="id-images_0025_jpg" href="images/0025.jpg" media-type="image/jpeg" />
+		<item id="id-images_0026_jpg" href="images/0026.jpg" media-type="image/jpeg" />
+		<item id="id-images_0027_jpg" href="images/0027.jpg" media-type="image/jpeg" />
+		<item id="id-images_0028_jpg" href="images/0028.jpg" media-type="image/jpeg" />
+		<item id="id-images_0029_jpg" href="images/0029.jpg" media-type="image/jpeg" />
+		<item id="id-images_0030_jpg" href="images/0030.jpg" media-type="image/jpeg" />
+		<item id="id-images_0031_jpg" href="images/0031.jpg" media-type="image/jpeg" />
+		<item id="id-images_0032_jpg" href="images/0032.jpg" media-type="image/jpeg" />
+		<item properties="cover-image" id="id-images_cover_jpg" href="images/cover.jpg" media-type="image/jpeg" />
 		<item id="id-toc_ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
 		<item properties="nav" id="id-toc_xhtml" href="toc.xhtml" media-type="application/xhtml+xml" />
 
