@@ -131,6 +131,11 @@ body {
 	text-align: right;
 	page-break-before: avoid;
 }
+.verse-num{
+	display: block;
+	text-align: right;
+	page-break-before: avoid;
+}
 .maintext ul.hangindent {
 	list-style-type: none;
 	margin-left: 1.25em;

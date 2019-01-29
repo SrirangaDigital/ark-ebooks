@@ -3,7 +3,7 @@
 		"001": {
             "language": "kan",
             "identifier": "ark_ebooks/001",
-            "isbn": "TBD-001",
+            "isbn": "9789388114707",
             "title": "ಶ್ರೀಪತಿಯ ಕಥೆಗಳು / Sreepathiya Kathegalu",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -16,7 +16,7 @@
         "002": {
             "language": "kan",
             "identifier": "ark_ebooks/002",
-            "isbn": "TBD-002",
+            "isbn": "9789388114714",
             "title": "ಸರ್ವಜ್ಞ ಕವಿ / Sarvajna Kavi",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -28,8 +28,8 @@
         },
         "003": {
             "language": "kan",
-            "identifier": "ark_ebooks/002",
-            "isbn": "TBD-003",
+            "identifier": "ark_ebooks/003",
+            "isbn": "9789388114721",
             "title": "ಸಂಸ್ಕೃತ ನಾಟಕ / Samskritha Nataka",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -42,7 +42,7 @@
         "004": {
             "language": "kan",
             "identifier": "ark_ebooks/004",
-            "isbn": "TBD-002",
+            "isbn": "9789388114738",
             "title": "ಭಾಷಣಗಳು ಮತ್ತು ಲೇಖನಗಳು / Bhashangalu maththu lekhanagalu",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -55,7 +55,7 @@
         "006": {
             "language": "kan",
             "identifier": "ark_ebooks/006",
-            "isbn": "TBD-006",
+            "isbn": "9789388114745",
             "title": "ವಚನ ಭಾರತ / Vachana Bhaaratha",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -68,7 +68,7 @@
          "008": {
             "language": "kan",
             "identifier": "ark_ebooks/008",
-            "isbn": "TBD-008",
+            "isbn": "9789388114752",
             "title": "ಭಾಸಕವಿ / Bhasakavi",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -81,7 +81,7 @@
         "009": {
             "language": "kan",
             "identifier": "ark_ebooks/009",
-            "isbn": "TBD-009",
+            "isbn": "9789388114769",
             "title": "ನಿರ್ಮಲ ಭಾರತೀ ಅಥವಾ ಮಕ್ಕಳ ಮಹಾಭಾರತ / Nirmala Bharathi or Makkala Mahabharata",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -94,7 +94,7 @@
         "010": {
             "language": "kan",
             "identifier": "ark_ebooks/010",
-            "isbn": "TBD-010",
+            "isbn": "9789388114776",
             "title": "ನಾಗಮಹಾಶಯ / Mahashaya",
             "creators": {
                 "author": "A R Krishna Shastri"
@@ -107,7 +107,7 @@
         "011": {
             "language": "kan",
             "identifier": "ark_ebooks/011",
-            "isbn": "TBD-011",
+            "isbn": "9789388114783",
             "title": "ಕವಿಜಿಹ್ವಾಬಂಧನಂ / Kavi Jihvaa Bhandanam",
             "creators": {
                 "author": "A R Krishna Shastri"
