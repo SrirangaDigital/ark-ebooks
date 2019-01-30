@@ -3,7 +3,7 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:TBD-008"/>
+      <meta name="dtb:uid" content="urn:isbn:9789388114752"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
@@ -16,7 +16,7 @@
    <navMap>
 		
 <navPoint id="navPoint-1" playOrder="1">
-<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-00a"/>
+<navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
 <navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
