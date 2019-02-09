@@ -52,6 +52,19 @@
             "pages": "480",
             "description": ""
         },
+         "005": {
+            "language": "kan",
+            "identifier": "ark_ebooks/005",
+            "isbn": "9789388114790",
+            "title": "ಬಂಕಿಮಚಂದ್ರ / Bankimachandra",
+            "creators": {
+                "author": "A R Krishna Shastri"
+            },
+            "category": "",
+            "publisher": "Sriranga Digital",
+            "pages": "525",
+            "description": ""
+        },
         "006": {
             "language": "kan",
             "identifier": "ark_ebooks/006",
