@@ -3,14 +3,14 @@
     version="2005-1" xml:lang="en">
 
    <head>
-      <meta name="dtb:uid" content="urn:isbn:9789388114783"/>
+      <meta name="dtb:uid" content="urn:isbn:9789388114806"/>
       <meta name="dtb:depth" content="1"/>
       <meta name="dtb:totalPageCount" content="0"/>
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
 
    <docTitle>
-      <text>ಕವಿಜಿಹ್ವಾಬಂಧನಂ / Kaviihvaabhandanam</text>
+      <text>ಕಥಾಮೃತ / Kathamrutha</text>
    </docTitle>
 
    <navMap>
@@ -19,7 +19,7 @@
 <navLabel><text>Title Page</text></navLabel><content src="000a-title.xhtml#id-000a"/>
 </navPoint>
 <navPoint id="navPoint-2" playOrder="2">
-<navLabel><text>Copyright</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
+<navLabel><text>Copyright Page</text></navLabel><content src="000b-copyright.xhtml#id-000b"/>
 </navPoint>
 <navPoint id="navPoint-3" playOrder="3">
 <navLabel><text>೧.  – ಕಥಾಪೀಠಲಂಬಕ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
@@ -33,592 +33,505 @@
 <navPoint id="navPoint-6" playOrder="6">
 <navLabel><text>೨.  – ಕಥಾಮುಖಲಂಬಕ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಶ್ರೀದತ್ತನ ಕಥೆ </text></navLabel><content src="002-chapter002.xhtml#id-001-003"/>
+<navLabel><text>ಶ್ರೀದತ್ತನ ಕಥೆ </text></navLabel><content src="002-chapter002.xhtml#id-002-001"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ರೂಪಣಿಕೆಯ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-001-004"/>
+<navLabel><text>ರೂಪಣಿಕೆಯ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-002-002"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ದೇವಸ್ಮಿತೆಯ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-001-005"/>
+<navLabel><text>ದೇವಸ್ಮಿತೆಯ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-002-003"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಶಕ್ತಿಮತಿಯ ಕಥೆ </text></navLabel><content src="002-chapter002.xhtml#id-001-006"/>
+<navLabel><text>ಶಕ್ತಿಮತಿಯ ಕಥೆ </text></navLabel><content src="002-chapter002.xhtml#id-002-004"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಬಾಲವಿನಷ್ಟಕನ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-001-007"/>
+<navLabel><text>ಬಾಲವಿನಷ್ಟಕನ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-002-005"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>ರುರುಡುಂಡುಭರ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-001-008"/>
+<navLabel><text>ರುರುಡುಂಡುಭರ ಕಥೆ</text></navLabel><content src="002-chapter002.xhtml#id-002-006"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
 <navLabel><text>೩.  – ಲಾವಾಣಕಲಂಬಕ</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>ಮಹಾಸೇನನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-009"/>
+<navLabel><text>ಮಹಾಸೇನನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.01"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>ಪರಿವ್ರಾಜಕ ಮತ್ತು ವಾನರ ಇವರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-001-010"/>
+<navLabel><text>ಪರಿವ್ರಾಜಕ ಮತ್ತು ವಾನರ ಇವರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-003.02"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>ಉನ್ಮಾದಿನೀ ದೇವಸೇನರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-001-011"/>
+<navLabel><text>ಉನ್ಮಾದಿನೀ ದೇವಸೇನರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-003.03"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>ಇಲ್ಲಕ ಮತ್ತು ಅವನ ಪ್ರಿಯಪತ್ನಿ ಇವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-012"/>
+<navLabel><text>ಇಲ್ಲಕ ಮತ್ತು ಅವನ ಪ್ರಿಯಪತ್ನಿ ಇವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.04"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>ಪುಣ್ಯಸೇನನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-013"/>
+<navLabel><text>ಪುಣ್ಯಸೇನನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.05"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>ದುರ್ವಾಸ ಮತ್ತು ಕುಂತಿ ಇವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-014"/>
+<navLabel><text>ದುರ್ವಾಸ ಮತ್ತು ಕುಂತಿ - ಇವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.06"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text> ಊರ್ವಶೀ ಪುರೂರವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-015"/>
+<navLabel><text> ಊರ್ವಶೀ ಪುರೂರವರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.07"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>ತೇಜೋವತೀ ವಿಹಿತಸೇನರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-016"/>
+<navLabel><text>ತೇಜೋವತೀ ವಿಹಿತಸೇನರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.08"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ಸೋಮಪ್ರಭಾ ಗುಹಚಂದ್ರರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-001-017"/>
+<navLabel><text>ಸೋಮಪ್ರಭಾ ಗುಹಚಂದ್ರರ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-003.09"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>ಅಹಲ್ಯಾ ದೇವೇಂದ್ರರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-018"/>
+<navLabel><text>ಅಹಲ್ಯಾದೇವೇಂದ್ರರ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.10"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>ದೇವಸೇನನೆಂಬ ಗೋಪಾಲರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-019"/>
+<navLabel><text>ದೇವಸೇನನೆಂಬ ಗೋಪಾಲರಾಜನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.11"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>ವಿದೂಷಕನ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-001-020"/>
+<navLabel><text>ವಿದೂಷಕನ ಕಥೆ </text></navLabel><content src="003-chapter003.xhtml#id-003.12"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>ದೇವದಾಸನೆಂಬ ವರ್ತಕನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-021"/>
+<navLabel><text>ದೇವದಾಸನೆಂಬ ವರ್ತಕನ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.13"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>ಫಲಭೂತಿಯ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-001-022"/>
+<navLabel><text>ಫಲಭೂತಿಯ ಕಥೆ</text></navLabel><content src="003-chapter003.xhtml#id-003.14"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
 <navLabel><text>೪  – ನರವಾಹನದತ್ತ ಜನನ ಲಂಬಕ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>ದೇವದತ್ತನೆಂಬ ರಾಜಪುತ್ರನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-023"/>
+<navLabel><text>ದೇವದತ್ತನೆಂಬ ರಾಜಪುತ್ರನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.01"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>ಪಿಂಗಳಿಕೆಯ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-024"/>
+<navLabel><text>ಪಿಂಗಳಿಕೆಯ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.02"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text> ಜೀಮೂತವಾಹನನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-025"/>
+<navLabel><text>ಜೀಮೂತವಾಹನನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.03"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>ಜೀಮೂತವಾಹನನ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-026"/>
+<navLabel><text>ಜೀಮೂತವಾಹನನ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.04"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>ಶಂಖಚೂಡನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-027"/>
+<navLabel><text>ಶಂಖಚೂಡನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.05"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>ಸಿಂಹಪರಾಕ್ರಮನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-001-028"/>
+<navLabel><text>ಸಿಂಹಪರಾಕ್ರಮನ ಕಥೆ</text></navLabel><content src="004-chapter004.xhtml#id-004.06"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
 <navLabel><text>೫.  – ಚತುರ್ದಾರಿಕಾಲಂಬಕ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>ಶಕ್ತಿವೇಗನ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-001-029"/>
+<navLabel><text>ಶಕ್ತಿವೇಗನ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-005.01"/>
 </navPoint>
 <navPoint id="navPoint-37" playOrder="37">
-<navLabel><text>ಶಿವಮಾಧವರ ಕಥೆ </text></navLabel><content src="005-chapter005.xhtml#id-001-030"/>
+<navLabel><text>ಶಿವಮಾಧವರ ಕಥೆ </text></navLabel><content src="005-chapter005.xhtml#id-005.02"/>
 </navPoint>
 <navPoint id="navPoint-38" playOrder="38">
-<navLabel><text>ಹರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-001-031"/>
+<navLabel><text>ಹರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-005.03"/>
 </navPoint>
 <navPoint id="navPoint-39" playOrder="39">
-<navLabel><text>ಅಶೋಕದತ್ತ ಮತ್ತು ಕಪಾಲಸ್ಫೋಟಕ - ಇವರ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-001-032"/>
+<navLabel><text>ಅಶೋಕದತ್ತ ಮತ್ತು ಕಪಾಲಸ್ಫೋಟಕ - ಇವರ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-005.04"/>
 </navPoint>
 <navPoint id="navPoint-40" playOrder="40">
-<navLabel><text>ದೇವದತ್ತನ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-001-033"/>
+<navLabel><text>ದೇವದತ್ತನ ಕಥೆ</text></navLabel><content src="005-chapter005.xhtml#id-005.05"/>
 </navPoint>
 </navPoint>
 <navPoint id="navPoint-41" playOrder="41">
 <navLabel><text>೬.  – ಮದನಮಂಚುಕಾಲಂಬಕ</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 <navPoint id="navPoint-42" playOrder="42">
-<navLabel><text>ರತ್ನದತ್ತನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-034"/>
+<navLabel><text>ರತ್ನದತ್ತನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.01"/>
 </navPoint>
 <navPoint id="navPoint-43" playOrder="43">
-<navLabel><text>ಕಳಿಂಗದತ್ತನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-035"/>
+<navLabel><text>ಕಳಿಂಗದತ್ತನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.02"/>
 </navPoint>
 <navPoint id="navPoint-44" playOrder="44">
-<navLabel><text>ತಾರಾದತ್ತೆಯ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-036"/>
+<navLabel><text>ತಾರಾದತ್ತೆಯ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.03"/>
 </navPoint>
 <navPoint id="navPoint-45" playOrder="45">
-<navLabel><text>ಏಳು ಬ್ರಾಹ್ಮಣರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-037"/>
+<navLabel><text>ಏಳು ಬ್ರಾಹ್ಮಣರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.04"/>
 </navPoint>
 <navPoint id="navPoint-46" playOrder="46">
-<navLabel><text>ಬ್ರಾಹ್ಮಣ, ಚಂಡಾಲ ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-038"/>
+<navLabel><text>ಬ್ರಾಹ್ಮಣ, ಚಂಡಾಲ ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.05"/>
 </navPoint>
 <navPoint id="navPoint-47" playOrder="47">
-<navLabel><text>ವಿಕ್ರಮಸಿಂಹ ಮತ್ತು ಇಬ್ಬರು ಬ್ರಾಹ್ಮಣರು-ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-039"/>
+<navLabel><text>ವಿಕ್ರಮಸಿಂಹ ಮತ್ತು ಇಬ್ಬರು ಬ್ರಾಹ್ಮಣರು - ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.06"/>
 </navPoint>
 <navPoint id="navPoint-48" playOrder="48">
-<navLabel><text>ವಿರಕ್ತರಾದ ಏಳು ರಾಜಪುತ್ರಿಯರ ಮತ್ತು ಒಬ್ಬ ರಾಜಪುತ್ರನ ಕಥೆಗಳು</text></navLabel><content src="006-chapter006.xhtml#id-001-040"/>
+<navLabel><text>ವಿರಕ್ತರಾದ ಏಳು ರಾಜಪುತ್ರಿಯರ ಮತ್ತು ಒಬ್ಬ ರಾಜಪುತ್ರನ ಕಥೆಗಳು</text></navLabel><content src="006-chapter006.xhtml#id-006.07"/>
 </navPoint>
 <navPoint id="navPoint-49" playOrder="49">
-<navLabel><text> ಸುಲೋಚನೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-041"/>
+<navLabel><text>ಸುಲೋಚನೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.08"/>
 </navPoint>
 <navPoint id="navPoint-50" playOrder="50">
-<navLabel><text>ಕೀರ್ತಿಸೇನೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-043"/>
+<navLabel><text>ರಾಜಪುತ್ರ ವರ್ತಕಪುತ್ರರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.09"/>
 </navPoint>
 <navPoint id="navPoint-51" playOrder="51">
-<navLabel><text>ತೇಜಸ್ವತಿಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-044"/>
+<navLabel><text>ಪಿಶಾಚಿ ಮತ್ತು ಬ್ರಾಹ್ಮಣ - ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.10"/>
 </navPoint>
 <navPoint id="navPoint-52" playOrder="52">
-<navLabel><text>ಹರಿಶರ್ಮನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-045"/>
+<navLabel><text>ಕೀರ್ತಿಸೇನೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.11"/>
 </navPoint>
 <navPoint id="navPoint-53" playOrder="53">
-<navLabel><text>ಉಷೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-046"/>
+<navLabel><text>ತೇಜಸ್ವತಿಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.12"/>
 </navPoint>
 <navPoint id="navPoint-54" playOrder="54">
-<navLabel><text> ವಿಷ್ಣುದತ್ತ ಮತ್ತು ಏಳು ಜನ ಬ್ರಾಹ್ಮಣಪುತ್ರರು --ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-047"/>
+<navLabel><text>ಹರಿಶರ್ಮನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.13"/>
 </navPoint>
 <navPoint id="navPoint-55" playOrder="55">
-<navLabel><text>ಕದಳೀಗರ್ಭೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-048"/>
+<navLabel><text>ಉಷೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.14"/>
 </navPoint>
 <navPoint id="navPoint-56" playOrder="56">
-<navLabel><text>ಶ್ರುತಸೇನರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-049"/>
+<navLabel><text>ವಿಷ್ಣುದತ್ತ ಮತ್ತು ಏಳು ಜನ ಬ್ರಾಹ್ಮಣಪುತ್ರರು - ಇವರ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.15"/>
 </navPoint>
 <navPoint id="navPoint-57" playOrder="57">
-<navLabel><text> ಮುಂಗುಸಿ, ಇಲಿ, ಗೂಬೆ, ಬೆಕ್ಕುಗಳ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-050"/>
+<navLabel><text>ಕದಳೀಗರ್ಭೆಯ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.16"/>
 </navPoint>
 <navPoint id="navPoint-58" playOrder="58">
-<navLabel><text>ಪ್ರಸೇನಜಿತ್ತೆಂಬ ಬುದ್ದಿವಂತನಾದ ರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-051"/>
+<navLabel><text>ಶ್ರುತಸೇನರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.17"/>
 </navPoint>
 <navPoint id="navPoint-59" playOrder="59">
-<navLabel><text>ಇಂದ್ರದತ್ತನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-052"/>
+<navLabel><text>ಮುಂಗುಸಿ, ಇಲಿ, ಗೂಬೆ, ಬೆಕ್ಕುಗಳ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.18"/>
 </navPoint>
 <navPoint id="navPoint-60" playOrder="60">
-<navLabel><text>ವಿರೂಪಾಕ್ಷನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-001-053"/>
-</navPoint>
+<navLabel><text>ಪ್ರಸೇನಜಿತ್ತೆಂಬ ಬುದ್ದಿವಂತನಾದ ರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.19"/>
 </navPoint>
 <navPoint id="navPoint-61" playOrder="61">
-<navLabel><text> ೭.   – ರತ್ನಪ್ರಭಾಲಂಬಕ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navLabel><text>ಇಂದ್ರದತ್ತನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.20"/>
+</navPoint>
 <navPoint id="navPoint-62" playOrder="62">
-<navLabel><text>ಸತ್ವಶೀಲನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-054"/>
+<navLabel><text>ವಿರೂಪಾಕ್ಷನ ಕಥೆ</text></navLabel><content src="006-chapter006.xhtml#id-006.21"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-63" playOrder="63">
-<navLabel><text>ವಿಕ್ರಮತುಂಗನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-055"/>
-</navPoint>
+<navLabel><text>೭. –  ರತ್ನಪ್ರಭಾಲಂಬಕ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 <navPoint id="navPoint-64" playOrder="64">
-<navLabel><text>ರತ್ನಾಧಿಪತಿ ರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-056"/>
+<navLabel><text>ಸತ್ತ್ವಶೀಲನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.01"/>
 </navPoint>
 <navPoint id="navPoint-65" playOrder="65">
-<navLabel><text>ನಿಶ್ಚಯದತ್ತ ಮತ್ತು ಅನುರಾಗಪರೆ - ಇವರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-057"/>
+<navLabel><text>ವಿಕ್ರಮತುಂಗನೆಂಬ ರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.02"/>
 </navPoint>
 <navPoint id="navPoint-66" playOrder="66">
-<navLabel><text>ಸೋಮಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-058"/>
+<navLabel><text>ರತ್ನಾಧಿಪತಿ ರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.03"/>
 </navPoint>
 <navPoint id="navPoint-67" playOrder="67">
-<navLabel><text>ಭವಶರ್ಮನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-059"/>
+<navLabel><text>ನಿಶ್ಚಯದತ್ತ ಮತ್ತು ಅನುರಾಗಪರೆ - ಇವರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.04"/>
 </navPoint>
 <navPoint id="navPoint-68" playOrder="68">
-<navLabel><text>ಮದನಮಾಲೆಯ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-060"/>
+<navLabel><text>ಸೋಮಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.05"/>
 </navPoint>
 <navPoint id="navPoint-69" playOrder="69">
-<navLabel><text>ಗುಣವರೆ ರೂಪಶಿಖೆಯರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-061"/>
+<navLabel><text>ಭವಶರ್ಮನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.06"/>
 </navPoint>
 <navPoint id="navPoint-70" playOrder="70">
-<navLabel><text>ತಪೋದತ್ತನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-062"/>
+<navLabel><text>ಮದನಮಾಲೆಯ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.07"/>
 </navPoint>
 <navPoint id="navPoint-71" playOrder="71">
-<navLabel><text>ವಿರೂಪಶರ್ಮನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-063"/>
+<navLabel><text>ಗುಣವರೆ ರೂಪಶಿಖೆಯರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.08"/>
 </navPoint>
 <navPoint id="navPoint-72" playOrder="72">
-<navLabel><text>ಅಜದರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-064"/>
+<navLabel><text>ತಪೋದತ್ತನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.09"/>
 </navPoint>
 <navPoint id="navPoint-73" playOrder="73">
-<navLabel><text>ಚಿರಾಯು ನಾಗಾರ್ಜುನರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-065"/>
+<navLabel><text>ವಿರೂಪಶರ್ಮನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.10"/>
 </navPoint>
 <navPoint id="navPoint-74" playOrder="74">
-<navLabel><text>ಇಂದೀವರಸೇನ ಅನಿಚ್ಛಾಸೇನರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-066"/>
+<navLabel><text>ಅಜರ ರಾಜನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.11"/>
 </navPoint>
 <navPoint id="navPoint-75" playOrder="75">
-<navLabel><text>ಪ್ರಾಣಧರ ರಾಜ್ಯಧರರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-067"/>
+<navLabel><text>ಚಿರಾಯು ನಾಗಾರ್ಜುನರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.12"/>
 </navPoint>
 <navPoint id="navPoint-76" playOrder="76">
-<navLabel><text>ಸುಖಧನನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-068"/>
+<navLabel><text>ಇಂದೀವರಸೇನ ಅನಿಚ್ಛಾಸೇನರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.13"/>
 </navPoint>
 <navPoint id="navPoint-77" playOrder="77">
-<navLabel><text>ಕರ್ಪೂರಿಕೆಯ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-001-069"/>
-</navPoint>
+<navLabel><text>ಪ್ರಾಣಧರ ರಾಜ್ಯಧರರ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.14"/>
 </navPoint>
 <navPoint id="navPoint-78" playOrder="78">
-<navLabel><text>೮.  –  ಸೂರ್ಯಪ್ರಭಾ ಲಂಬಕ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navLabel><text>ಸುಖಧನನ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.15"/>
+</navPoint>
 <navPoint id="navPoint-79" playOrder="79">
-<navLabel><text>ಸೂರ್ಯಪ್ರಭನ ಕಥೆ</text></navLabel><content src="008-chapter008.xhtml#id-001-070"/>
+<navLabel><text>ಕರ್ಪೂರಿಕೆಯ ಪೂರ್ವಜನ್ಮದ ಕಥೆ</text></navLabel><content src="007-chapter007.xhtml#id-007.16"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-80" playOrder="80">
-<navLabel><text>ಗುಣಶರ್ಮನ ಕಥೆ</text></navLabel><content src="008-chapter008.xhtml#id-001-071"/>
-</navPoint>
-</navPoint>
+<navLabel><text>೮.  –  ಸೂರ್ಯಪ್ರಭಲಂಬಕ</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
 <navPoint id="navPoint-81" playOrder="81">
-<navLabel><text>೯.  –  ಅಲಂಕಾರವತೀಲಂಬಕ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>ಸೂರ್ಯಪ್ರಭನ ಕಥೆ</text></navLabel><content src="008-chapter008.xhtml#id-008-01"/>
+</navPoint>
 <navPoint id="navPoint-82" playOrder="82">
-<navLabel><text>ರಾಮಾಯಣದ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-072"/>
+<navLabel><text>ಗುಣಶರ್ಮನ ಕಥೆ</text></navLabel><content src="008-chapter008.xhtml#id-008-02"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-83" playOrder="83">
-<navLabel><text>ಪೃಥ್ವೀರೂಪ ರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-073"/>
-</navPoint>
+<navLabel><text>೯. –  ಅಲಂಕಾರವತೀಲಂಬಕ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 <navPoint id="navPoint-84" playOrder="84">
-<navLabel><text>ಅಶೋಕಮಾಲೆಯ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-074"/>
+<navLabel><text>ರಾಮಾಯಣದ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.01"/>
 </navPoint>
 <navPoint id="navPoint-85" playOrder="85">
-<navLabel><text>ಅನಂಗರತಿಯ ಕಥೆ </text></navLabel><content src="009-chapter009.xhtml#id-001-075"/>
+<navLabel><text>ಪೃಥ್ವೀರೂಪ ರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.02"/>
 </navPoint>
 <navPoint id="navPoint-86" playOrder="86">
-<navLabel><text>ಲಕ್ಷದತ್ತ ಮತ್ತು ಲಬ್ಧದತ್ತ - ಇವರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-076"/>
+<navLabel><text>ಅಶೋಕಮಾಲೆಯ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.03"/>
 </navPoint>
 <navPoint id="navPoint-87" playOrder="87">
-<navLabel><text> ವಿಕ್ರಮತುಂಗ ಮತ್ತು ವೀರವರ - ಇವರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-077"/>
+<navLabel><text>ಅನಂಗರತಿಯ ಕಥೆ </text></navLabel><content src="009-chapter009.xhtml#id-009.04"/>
 </navPoint>
 <navPoint id="navPoint-88" playOrder="88">
-<navLabel><text>ಸಮುದ್ರಶೂರನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-078"/>
+<navLabel><text>ಲಕ್ಷದತ್ತ ಮತ್ತು ಲಬ್ಧದತ್ತ - ಇವರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.05"/>
 </navPoint>
 <navPoint id="navPoint-89" playOrder="89">
-<navLabel><text>ಚಮರವಾಲ ರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-079"/>
+<navLabel><text>ವಿಕ್ರಮತುಂಗ ಮತ್ತು ವೀರವರ - ಇವರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.06"/>
 </navPoint>
 <navPoint id="navPoint-90" playOrder="90">
-<navLabel><text>ಭೋಗವರ್ಮ ಅರ್ಥವರ್ಮ ಎಂಬ ವರ್ತಕರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-080"/>
+<navLabel><text>ಸಮುದ್ರಶೂರನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.07"/>
 </navPoint>
 <navPoint id="navPoint-91" playOrder="91">
-<navLabel><text>ಚಿರದಾತೃರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-081"/>
+<navLabel><text>ಚಮರವಾಲ ರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.08"/>
 </navPoint>
 <navPoint id="navPoint-92" playOrder="92">
-<navLabel><text>ಕನಕವರ್ಷರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-082"/>
+<navLabel><text>ಭೋಗವರ್ಮ ಅರ್ಥವರ್ಮ ಎಂಬ ವರ್ತಕರ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.09"/>
 </navPoint>
 <navPoint id="navPoint-93" playOrder="93">
-<navLabel><text>ಚಂದ್ರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-083"/>
+<navLabel><text>ಚಿರದಾತೃರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.10"/>
 </navPoint>
 <navPoint id="navPoint-94" playOrder="94">
-<navLabel><text>ಧರ್ಮವ್ಯಾಧನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-084"/>
+<navLabel><text>ಕನಕವರ್ಷರಾಜನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.11"/>
 </navPoint>
 <navPoint id="navPoint-95" playOrder="95">
-<navLabel><text>ನಳನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-001-085"/>
-</navPoint>
+<navLabel><text>ಚಂದ್ರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.12"/>
 </navPoint>
 <navPoint id="navPoint-96" playOrder="96">
-<navLabel><text>೧೦.  –  ಶಕ್ತಿಯಶೋಲಂಬಕ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navLabel><text>ಧರ್ಮವ್ಯಾಧನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.13"/>
+</navPoint>
 <navPoint id="navPoint-97" playOrder="97">
-<navLabel><text>ಈಶ್ವರವರ್ಮ ಮತ್ತು ಸುಂದರಿ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-086"/>
+<navLabel><text>ನಳನ ಕಥೆ</text></navLabel><content src="009-chapter009.xhtml#id-009.14"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-98" playOrder="98">
-<navLabel><text>ಕುಮುದಿಕೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-087"/>
-</navPoint>
+<navLabel><text>೧೦.  –  ಶಕ್ತಿಯಶೋಲಂಬಕ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 <navPoint id="navPoint-99" playOrder="99">
-<navLabel><text>ಚಂದ್ರಶ್ರೀಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-088"/>
+<navLabel><text>ಶುಭದತ್ತನು ಭದ್ರಘಟವನ್ನು ಕಳೆದುಕೊಂಡ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-01"/>
 </navPoint>
 <navPoint id="navPoint-100" playOrder="100">
-<navLabel><text>ದುಶ್ಯೀಲೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-089"/>
+<navLabel><text>ಈಶ್ವರವರ್ಮ ಮತ್ತು ಸುಂದರಿ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-02"/>
 </navPoint>
 <navPoint id="navPoint-101" playOrder="101">
-<navLabel><text>ಸುಮನರಾಜನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-090"/>
+<navLabel><text>ಕುಮುದಿಕೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-03"/>
 </navPoint>
 <navPoint id="navPoint-102" playOrder="102">
-<navLabel><text>ಗಿಣಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-001-091"/>
+<navLabel><text>ಚಂದ್ರಶ್ರೀಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-04"/>
 </navPoint>
 <navPoint id="navPoint-103" playOrder="103">
-<navLabel><text>ಸೋಮಪ್ರಭನ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-001-092"/>
+<navLabel><text>ದುಶ್ಯೀಲೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-05"/>
 </navPoint>
 <navPoint id="navPoint-104" playOrder="104">
-<navLabel><text>ಮನೋರಥಪ್ರಭೆಯ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-001-093"/>
+<navLabel><text>ಸುಮನರಾಜನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-06"/>
 </navPoint>
 <navPoint id="navPoint-105" playOrder="105">
-<navLabel><text>ಶೂರವರ್ಮನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-094"/>
+<navLabel><text>ಗಿಣಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-010-07"/>
 </navPoint>
 <navPoint id="navPoint-106" playOrder="106">
-<navLabel><text>ಸಿಂಹ ಎತ್ತುಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-095"/>
+<navLabel><text>ಸೋಮಪ್ರಭನ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-010-08"/>
 </navPoint>
 <navPoint id="navPoint-107" playOrder="107">
-<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-001-096"/>
+<navLabel><text>ಮನೋರಥಪ್ರಭೆಯ ವೃತ್ತಾಂತ</text></navLabel><content src="010-chapter010.xhtml#id-010-09"/>
 </navPoint>
 <navPoint id="navPoint-108" playOrder="108">
-<navLabel><text>ಬುದ್ಧಿಯುಳ್ಳ ಕಾಗೆ, ಇಲಿ, ಪಾರಿವಾಳ, ಜಿಂಕೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-097"/>
+<navLabel><text>ಶೂರವರ್ಮನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-10"/>
 </navPoint>
 <navPoint id="navPoint-109" playOrder="109">
-<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು(ಮುಂದುವರೆದದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-001-098"/>
+<navLabel><text>ಸಿಂಹ ಎತ್ತುಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-11"/>
 </navPoint>
 <navPoint id="navPoint-110" playOrder="110">
-<navLabel><text>ಕಾಗೆ ಗೂಬೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-099"/>
+<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು</text></navLabel><content src="010-chapter010.xhtml#id-010-12"/>
 </navPoint>
 <navPoint id="navPoint-111" playOrder="111">
-<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು(ಮುಂದುವರೆದಿದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-001-100"/>
+<navLabel><text>ಬುದ್ಧಿಯುಳ್ಳ ಕಾಗೆ, ಇಲಿ, ಪಾರಿವಾಳ, ಜಿಂಕೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-13"/>
 </navPoint>
 <navPoint id="navPoint-112" playOrder="112">
-<navLabel><text>ಯಶೋಧರ ಲಕ್ಷ್ಮೀಧರರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-101"/>
+<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು(ಮುಂದುವರೆದದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-010-14"/>
 </navPoint>
 <navPoint id="navPoint-113" playOrder="113">
-<navLabel><text>ಕಪಿ ಮೊಸಳೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-102"/>
+<navLabel><text>ಕಾಗೆ ಗೂಬೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-15"/>
 </navPoint>
 <navPoint id="navPoint-114" playOrder="114">
-<navLabel><text>ವೈಣಿಕ ಧನಿಕರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-103"/>
+<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು(ಮುಂದುವರೆದಿದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-010-16"/>
 </navPoint>
 <navPoint id="navPoint-115" playOrder="115">
-<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು (ಮುಂದುವರೆದದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-001-104"/>
+<navLabel><text>ಯಶೋಧರ ಲಕ್ಷ್ಮೀಧರರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-17"/>
 </navPoint>
 <navPoint id="navPoint-116" playOrder="116">
-<navLabel><text>ಘಟ ಕರ್ಪರ ಎಂಬ ಕಳ್ಳರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-105"/>
+<navLabel><text>ಕಪಿ ಮೊಸಳೆಗಳ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-18"/>
 </navPoint>
 <navPoint id="navPoint-117" playOrder="117">
-<navLabel><text>ರುಂಡಪುರುಷ ಮತ್ತು ಜಾರೆ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-106"/>
+<navLabel><text>ವೈಣಿಕ ಧನಿಕರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-19"/>
 </navPoint>
 <navPoint id="navPoint-118" playOrder="118">
-<navLabel><text> ಹೆಂಗಸು, ಸಿಂಹ, ಸ್ವರ್ಣಚೂಡ, ಹಾವು, ಬೋಧಿಸತ್ತ್ವ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-107"/>
+<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು (ಮುಂದುವರೆದದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-010-20"/>
 </navPoint>
 <navPoint id="navPoint-119" playOrder="119">
-<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು (ಮುಂದುವರೆದಿದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-001-108"/>
+<navLabel><text>ಘಟ ಕರ್ಪರ ಎಂಬ ಕಳ್ಳರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-21"/>
 </navPoint>
 <navPoint id="navPoint-120" playOrder="120">
-<navLabel><text> ಕಶ್ಮೀರ ಪಾಟಲೀಪುತ್ರಗಳ ಪರಿವ್ರಾಜಕರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-109"/>
+<navLabel><text>ರುಂಡಪುರುಷ ಮತ್ತು ಜಾರೆ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-22"/>
 </navPoint>
 <navPoint id="navPoint-121" playOrder="121">
-<navLabel><text>ಏಕಾದಶಮಾರಿಕೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-110"/>
+<navLabel><text> ಹೆಂಗಸು, ಸಿಂಹ, ಸ್ವರ್ಣಚೂಡ, ಹಾವು, ಬೋಧಿಸತ್ತ್ವ - ಇವರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-23"/>
 </navPoint>
 <navPoint id="navPoint-122" playOrder="122">
-<navLabel><text>ಒಂದು ಎತ್ತಿನಿಂದ ಸಾಹುಕಾರನಾದವನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-111"/>
+<navLabel><text>ದಡ್ಡರ ಕಥೆಗಳು (ಮುಂದುವರೆದಿದ್ದು)</text></navLabel><content src="010-chapter010.xhtml#id-010-24"/>
 </navPoint>
 <navPoint id="navPoint-123" playOrder="123">
-<navLabel><text>ಧೂರ್ತನು ಮಹಾಮಂತ್ರಿಯಾದ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-112"/>
+<navLabel><text> ಕಶ್ಮೀರ ಪಾಟಲೀಪುತ್ರಗಳ ಪರಿವ್ರಾಜಕರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-25"/>
 </navPoint>
 <navPoint id="navPoint-124" playOrder="124">
-<navLabel><text> ಹೇಮಪ್ರಭಾ ಲಕ್ಷೀಸೇನರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-001-113"/>
-</navPoint>
+<navLabel><text>ಏಕಾದಶಮಾರಿಕೆಯ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-26"/>
 </navPoint>
 <navPoint id="navPoint-125" playOrder="125">
-<navLabel><text>೧೧.   – ವೇಲಾಲಂಬಕ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
-<navPoint id="navPoint-126" playOrder="126">
-<navLabel><text>ಚಂದ್ರಸಾರನ ವೃತ್ತಾಂತ</text></navLabel><content src="011-chapter011.xhtml#id-001-114"/>
+<navLabel><text>ಒಂದು ಎತ್ತಿನಿಂದ ಸಾಹುಕಾರನಾದವನ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-27"/>
 </navPoint>
+<navPoint id="navPoint-126" playOrder="126">
+<navLabel><text>ಧೂರ್ತನು ಮಹಾಮಂತ್ರಿಯಾದ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-28"/>
 </navPoint>
 <navPoint id="navPoint-127" playOrder="127">
-<navLabel><text>೧೨.   – ಶಶಾಂಕವತೀಲಂಬಕ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
-<navPoint id="navPoint-128" playOrder="128">
-<navLabel><text>ಉತ್ತಮಜಾತಿಯ ಹೆಣ್ಣಾನೆಯ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-115"/>
+<navLabel><text> ಹೇಮಪ್ರಭಾ ಲಕ್ಷೀಸೇನರ ಕಥೆ</text></navLabel><content src="010-chapter010.xhtml#id-010-29"/>
 </navPoint>
+</navPoint>
+<navPoint id="navPoint-128" playOrder="128">
+<navLabel><text>೧೧.   – ವೇಲಾಲಂಬಕ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 <navPoint id="navPoint-129" playOrder="129">
-<navLabel><text>ವಾಮದತ್ತ ಮತ್ತು ಅವನ ಕೆಟ್ಟ ಹೆಂಡತಿ-ಇವರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-116"/>
+<navLabel><text>ಚಂದ್ರಸಾರನ ವೃತ್ತಾಂತ</text></navLabel><content src="011-chapter011.xhtml#id-011-01"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-130" playOrder="130">
-<navLabel><text>ಮೃಗಾಂಕದತ್ತ ಮತ್ತು ಅವನ ಹತ್ತು ಮಂತ್ರಿಗಳ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-117"/>
-</navPoint>
+<navLabel><text>೧೩.   – ಮದಿರಾವತೀಲಂಬಕ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 <navPoint id="navPoint-131" playOrder="131">
-<navLabel><text>ಭದ್ರಬಾಹು ಮತ್ತು ಅವನ ಬುದ್ಧಿಶಾಲಿಯಾದ ಮಂತ್ರಿ-ಇವರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-118"/>
+<navLabel><text>ಬ್ರಾಹ್ಮಣಕುಮಾರ ಮತ್ತು ಮದಿರಾವತಿ ಇವರ ಕಥೆ</text></navLabel><content src="013-chapter013.xhtml#id-013.01"/>
 </navPoint>
 <navPoint id="navPoint-132" playOrder="132">
-<navLabel><text>ಪುಷ್ಕರಾಕ್ಷ ವಿನಯವತಿಯರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-119"/>
+<navLabel><text>ಎರಡನೆಯ ಬ್ರಾಹ್ಮಣಕುಮಾರನ ವೃತ್ತಾಂತ</text></navLabel><content src="013-chapter013.xhtml#id-013.02"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-133" playOrder="133">
-<navLabel><text>ಶ್ರುತಧಿ ಎಂಬ ಬ್ರಾಹ್ಮಣನ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-120"/>
-</navPoint>
+<navLabel><text>೧೪.   – ಪಂಚಲಂಬಕ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 <navPoint id="navPoint-134" playOrder="134">
-<navLabel><text>ವಿಮಲಬುದ್ಧಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-121"/>
+<navLabel><text>ಅಶ್ರುತೆ ಮತ್ತು ಅಂಗಿರ ಇವರ ಕಥೆ</text></navLabel><content src="014-chapter014.xhtml#id-014.01"/>
 </navPoint>
 <navPoint id="navPoint-135" playOrder="135">
-<navLabel><text>ಭೀಮಪರಾಕ್ರಮನ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-122"/>
+<navLabel><text>ಗೋಮುಖನ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-014.02"/>
 </navPoint>
 <navPoint id="navPoint-136" playOrder="136">
-<navLabel><text>ಕಮಲಾಕರ ಹಂಸಾವಳಿಯರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-123"/>
+<navLabel><text>ನಾಗಸ್ವಾಮಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-014.03"/>
 </navPoint>
 <navPoint id="navPoint-137" playOrder="137">
-<navLabel><text> ಗುಣಾಕರನ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-124"/>
+<navLabel><text>ಮರುಭೂತಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-014.04"/>
 </navPoint>
 <navPoint id="navPoint-138" playOrder="138">
-<navLabel><text>ವಿನೀತಮತಿಯ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-125"/>
+<navLabel><text>ಹರಿಶಿಖನ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-014.05"/>
+</navPoint>
 </navPoint>
 <navPoint id="navPoint-139" playOrder="139">
-<navLabel><text>ವರಾಹಜಾತಕನ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-126"/>
-</navPoint>
-<navPoint id="navPoint-140" playOrder="140">
-<navLabel><text>ದೇವಭೂತಿಯ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-127"/>
-</navPoint>
-<navPoint id="navPoint-141" playOrder="141">
-<navLabel><text>೧. ದಾನಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-128"/>
-</navPoint>
-<navPoint id="navPoint-142" playOrder="142">
-<navLabel><text> ೨. ಶೀಲಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-129"/>
-</navPoint>
-<navPoint id="navPoint-143" playOrder="143">
-<navLabel><text>೩.ಕ್ಷಮಾಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-130"/>
-</navPoint>
-<navPoint id="navPoint-144" playOrder="144">
-<navLabel><text> ೪.ಧೈರ್ಯಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-131"/>
-</navPoint>
-<navPoint id="navPoint-145" playOrder="145">
-<navLabel><text> ೫. ಧ್ಯಾನಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-132"/>
-</navPoint>
-<navPoint id="navPoint-146" playOrder="146">
-<navLabel><text>೬.ಪ್ರಜ್ಞಾಪಾರಮಿತಾ</text></navLabel><content src="012-chapter012.xhtml#id-001-133"/>
-</navPoint>
-<navPoint id="navPoint-147" playOrder="147">
-<navLabel><text>ವಿಚಿತ್ರಕಥನ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-134"/>
-</navPoint>
-<navPoint id="navPoint-148" playOrder="148">
-<navLabel><text>ಅಟ್ಟಹಾಸ ಯಕ್ಷನ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-135"/>
-</navPoint>
-<navPoint id="navPoint-149" playOrder="149">
-<navLabel><text>ಭೂನಂದನ ಕುಮುದಿನಿಯರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-136"/>
-</navPoint>
-<navPoint id="navPoint-150" playOrder="150">
-<navLabel><text>ಪ್ರಚಂಡಶಕ್ತಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-137"/>
-</navPoint>
-<navPoint id="navPoint-151" playOrder="151">
-<navLabel><text>ಶೀಲಧರ ಸತ್ಯಧರರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-138"/>
-</navPoint>
-<navPoint id="navPoint-152" playOrder="152">
-<navLabel><text>ಅಕ್ಷಕ್ಷಪಣನ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-139"/>
-</navPoint>
-<navPoint id="navPoint-153" playOrder="153">
-<navLabel><text>ವಿಕ್ರಮಕೇಸರಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-140"/>
-</navPoint>
-<navPoint id="navPoint-154" playOrder="154">
-<navLabel><text>ತ್ರಿವಿಕ್ರಮಸೇನನ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-141"/>
-</navPoint>
-<navPoint id="navPoint-155" playOrder="155">
-<navLabel><text>ಬೇತಾಳ ಪಂಚವಿಂಶತಿ ಕಥೆಗಳು - ೧</text></navLabel><content src="012-chapter012.xhtml#id-001-142"/>
-</navPoint>
-<navPoint id="navPoint-156" playOrder="156">
-<navLabel><text>ಬೇತಾಳ ಪಂಚವಿಂಶತಿ ಮುಗಿಯಿತು</text></navLabel><content src="012-chapter012.xhtml#id-001-143"/>
-</navPoint>
-<navPoint id="navPoint-157" playOrder="157">
-<navLabel><text>ವ್ಯಾಘ್ರಸೇನ ಮುಂತಾದ ನಾಲ್ವರ ವೃತ್ತಾಂತ</text></navLabel><content src="012-chapter012.xhtml#id-001-144"/>
-</navPoint>
-<navPoint id="navPoint-158" playOrder="158">
-<navLabel><text>ಸುಂದರಸೇನ ಮಂದಾರವತಿಯರ ಕಥೆ</text></navLabel><content src="012-chapter012.xhtml#id-001-145"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-159" playOrder="159">
-<navLabel><text>೧೩.   – ಮದಿರಾವತೀಲಂಬಕ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
-<navPoint id="navPoint-160" playOrder="160">
-<navLabel><text>ಬ್ರಾಹ್ಮಣಕುಮಾರ ಮತ್ತು ಮದಿರಾವತಿ ಇವರ ಕಥೆ</text></navLabel><content src="013-chapter013.xhtml#id-001-146"/>
-</navPoint>
-<navPoint id="navPoint-161" playOrder="161">
-<navLabel><text>ಎರಡನೆಯ ಬ್ರಾಹ್ಮಣಕುಮಾರನ ವೃತ್ತಾಂತ</text></navLabel><content src="013-chapter013.xhtml#id-001-147"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-162" playOrder="162">
-<navLabel><text>೧೪.   – ಪಂಚಲಂಬಕ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
-<navPoint id="navPoint-163" playOrder="163">
-<navLabel><text>ಅಶ್ರುತೆ ಮತ್ತು ಅಂಗಿರ ಇವರ ಕಥೆ</text></navLabel><content src="014-chapter014.xhtml#id-001-148"/>
-</navPoint>
-<navPoint id="navPoint-164" playOrder="164">
-<navLabel><text>ಗೋಮುಖನ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-001-149"/>
-</navPoint>
-<navPoint id="navPoint-165" playOrder="165">
-<navLabel><text>ನಾಗಸ್ವಾಮಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-001-150"/>
-</navPoint>
-<navPoint id="navPoint-166" playOrder="166">
-<navLabel><text>ಮರುಭೂತಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-001-151"/>
-</navPoint>
-<navPoint id="navPoint-167" playOrder="167">
-<navLabel><text>ಹರಿಶಿಖನ ವೃತ್ತಾಂತ</text></navLabel><content src="014-chapter014.xhtml#id-001-152"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-168" playOrder="168">
 <navLabel><text>೧೫.   – ಮಹಾಭಿಷೇಕಲಂಬಕ</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 </navPoint>
-<navPoint id="navPoint-169" playOrder="169">
-<navLabel><text>೧೬.   – ಸುರತಮಂಜರೀಲಂಬಕ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
-<navPoint id="navPoint-170" playOrder="170">
-<navLabel><text>ಶೂರಸೇನ ಸುಷೇಣೆಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-001-153"/>
+<navPoint id="navPoint-140" playOrder="140">
+<navLabel><text>೧೬.  – ಸುರತಮಂಜರೀಲಂಬಕ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
+<navPoint id="navPoint-141" playOrder="141">
+<navLabel><text>ಶೂರಸೇನ ಸುಷೇಣೆಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.01"/>
 </navPoint>
+<navPoint id="navPoint-142" playOrder="142">
+<navLabel><text>ಅಗ್ನಿಕುಮಾರ ಕುರಂಗಿಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.02"/>
+</navPoint>
+<navPoint id="navPoint-143" playOrder="143">
+<navLabel><text>ಸುಪ್ರಹಾರ ಮಾಯಾವತಿಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.03"/>
+</navPoint>
+<navPoint id="navPoint-144" playOrder="144">
+<navLabel><text>ವಾಮದತ್ತೆ ಮತ್ತು ಕಳ್ಳ ಇವರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.04"/>
+</navPoint>
+<navPoint id="navPoint-145" playOrder="145">
+<navLabel><text>ತಾರಾವಲೋಕನ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-016.05"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-146" playOrder="146">
+<navLabel><text>೧೭.   –  ಪದ್ಮಾವತೀಲಂಬಕ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navPoint id="navPoint-147" playOrder="147">
+<navLabel><text>ಬ್ರಹ್ಮದತ್ತನ ಕಥೆ</text></navLabel><content src="017-chapter017.xhtml#id-017-01"/>
+</navPoint>
+<navPoint id="navPoint-148" playOrder="148">
+<navLabel><text>ಹೇಮಹಂಸಗಳ ವೃತ್ತಾಂತ</text></navLabel><content src="017-chapter017.xhtml#id-017-02"/>
+</navPoint>
+<navPoint id="navPoint-149" playOrder="149">
+<navLabel><text> ಮುಕ್ತಾಫಲಕೇತುವಿನ ವೃತ್ತಾಂತ</text></navLabel><content src="017-chapter017.xhtml#id-017-03"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-150" playOrder="150">
+<navLabel><text>೧೮.  –  ವಿಷಮಶೀಲಲಂಬಕ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+<navPoint id="navPoint-151" playOrder="151">
+<navLabel><text>ವಿಷಮಶೀಲನ ಅಥವಾ ವಿಕ್ರಮಾದಿತ್ಯನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.01"/>
+</navPoint>
+<navPoint id="navPoint-152" playOrder="152">
+<navLabel><text>ಅನಂಗದೇವನ ವೃತ್ತಾಂತ </text></navLabel><content src="018-chapter018.xhtml#id-018.02"/>
+</navPoint>
+<navPoint id="navPoint-153" playOrder="153">
+<navLabel><text>ಮದನಮಂಜರಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="018-chapter018.xhtml#id-018.03"/>
+</navPoint>
+<navPoint id="navPoint-154" playOrder="154">
+<navLabel><text>ಠಿಂಠಾಕರಾಳನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.04"/>
+</navPoint>
+<navPoint id="navPoint-155" playOrder="155">
+<navLabel><text>ಕುಟ್ಟಿನೀಕಪಟನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.05"/>
+</navPoint>
+<navPoint id="navPoint-156" playOrder="156">
+<navLabel><text>ಮಲಯವತಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.06"/>
+</navPoint>
+<navPoint id="navPoint-157" playOrder="157">
+<navLabel><text>ಕಳಿಂಗಸೇನೆಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.07"/>
+</navPoint>
+<navPoint id="navPoint-158" playOrder="158">
+<navLabel><text>ಏಕಾಕಿಕೇಸರಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.08"/>
+</navPoint>
+<navPoint id="navPoint-159" playOrder="159">
+<navLabel><text>ಶುಭಭದ್ರ ಧನದತ್ತನ ಹೆಂಡತಿ ಇವರ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.09"/>
+</navPoint>
+<navPoint id="navPoint-160" playOrder="160">
+<navLabel><text>ಗುಣವತಿ ಚಂದ್ರವತಿಯರ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.10"/>
+</navPoint>
+<navPoint id="navPoint-161" playOrder="161">
+<navLabel><text>ಧನದತ್ತನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.11"/>
+</navPoint>
+<navPoint id="navPoint-162" playOrder="162">
+<navLabel><text>ಕೇಸಟನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.12"/>
+</navPoint>
+<navPoint id="navPoint-163" playOrder="163">
+<navLabel><text>ಕಂದರ್ಪನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.13"/>
+</navPoint>
+<navPoint id="navPoint-164" playOrder="164">
+<navLabel><text>ಕುಸುಮಾಯುಧನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.14"/>
+</navPoint>
+<navPoint id="navPoint-165" playOrder="165">
+<navLabel><text>ಚಂದ್ರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.15"/>
+</navPoint>
+<navPoint id="navPoint-166" playOrder="166">
+<navLabel><text>ಕೃಷ್ಣಶಕ್ತಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.16"/>
+</navPoint>
+<navPoint id="navPoint-167" playOrder="167">
+<navLabel><text>ದೇವಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.17"/>
+</navPoint>
+<navPoint id="navPoint-168" playOrder="168">
+<navLabel><text>ಅಗ್ನಿಶರ್ಮನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.18"/>
+</navPoint>
+<navPoint id="navPoint-169" playOrder="169">
+<navLabel><text>ಮೂಲದೇವನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-018.19"/>
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-170" playOrder="170">
+<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
 <navPoint id="navPoint-171" playOrder="171">
-<navLabel><text>ಅಗ್ನಿಕುಮಾರ ಕುರಂಗಿಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-001-154"/>
+<navLabel><text>ಅನುಬಂಧ ೧ ದಶಕುಮಾರಚರಿತ್ರೆಯ ಸಾರಾಂಶ</text></navLabel><content src="019-chapter019.xhtml#id-019.01"/>
 </navPoint>
 <navPoint id="navPoint-172" playOrder="172">
-<navLabel><text>ಸುಪ್ರಹಾರ ಮಾಯಾವತಿಯರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-001-155"/>
+<navLabel><text>ಅನುಬಂಧ  ೨ ಬೃಹತ್ಕಥಾ ಶ್ಲೋಕಸಂಗ್ರಹದ ಕಥಾಮುಖ</text></navLabel><content src="019-chapter019.xhtml#id-019.02"/>
 </navPoint>
 <navPoint id="navPoint-173" playOrder="173">
-<navLabel><text>ವಾಮದತ್ತೆ ಮತ್ತು ಕಳ್ಳ ಇವರ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-001-156"/>
-</navPoint>
-<navPoint id="navPoint-174" playOrder="174">
-<navLabel><text>ತಾರಾವಲೋಕನ ಕಥೆ</text></navLabel><content src="016-chapter016.xhtml#id-001-157"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-175" playOrder="175">
-<navLabel><text>೧೭.   –  ಪದ್ಮಾವತೀಲಂಬಕ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
-<navPoint id="navPoint-176" playOrder="176">
-<navLabel><text>ಬ್ರಹ್ಮದತ್ತನ ಕಥೆ</text></navLabel><content src="017-chapter017.xhtml#id-001-158"/>
-</navPoint>
-<navPoint id="navPoint-177" playOrder="177">
-<navLabel><text>ಹೇಮಹಂಸಗಳ ವೃತ್ತಾಂತ</text></navLabel><content src="017-chapter017.xhtml#id-001-159"/>
-</navPoint>
-<navPoint id="navPoint-178" playOrder="178">
-<navLabel><text> ಮುಕ್ತಾಫಲಕೇತುವಿನ ವೃತ್ತಾಂತ</text></navLabel><content src="017-chapter017.xhtml#id-001-160"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-179" playOrder="179">
-<navLabel><text>೧೮.  –  ವಿಷಮಶೀಲಲಂಬಕ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
-<navPoint id="navPoint-180" playOrder="180">
-<navLabel><text>ವಿಷಮಶೀಲನ ಅಥವಾ ವಿಕ್ರಮಾದಿತ್ಯನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-161"/>
-</navPoint>
-<navPoint id="navPoint-181" playOrder="181">
-<navLabel><text>ಅನಂಗದೇವನ ವೃತ್ತಾಂತ </text></navLabel><content src="018-chapter018.xhtml#id-001-162"/>
-</navPoint>
-<navPoint id="navPoint-182" playOrder="182">
-<navLabel><text>ಮದನಮಂಜರಿಯ ವೃತ್ತಾಂತ</text></navLabel><content src="018-chapter018.xhtml#id-001-163"/>
-</navPoint>
-<navPoint id="navPoint-183" playOrder="183">
-<navLabel><text>ಠಿಂಠಾಕರಾಳನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-164"/>
-</navPoint>
-<navPoint id="navPoint-184" playOrder="184">
-<navLabel><text>ಕುಟ್ಟಿನೀಕಪಟನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-165"/>
-</navPoint>
-<navPoint id="navPoint-185" playOrder="185">
-<navLabel><text>ಮಲಯವತಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-166"/>
-</navPoint>
-<navPoint id="navPoint-186" playOrder="186">
-<navLabel><text> ಕಳಿಂಗಸೇನೆಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-167"/>
-</navPoint>
-<navPoint id="navPoint-187" playOrder="187">
-<navLabel><text>ಏಕಾಕಿಕೇಸರಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-168"/>
-</navPoint>
-<navPoint id="navPoint-188" playOrder="188">
-<navLabel><text>ಶುಭಭದ್ರ ಧನದತ್ತನ ಹೆಂಡತಿ ಇವರ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-169"/>
-</navPoint>
-<navPoint id="navPoint-189" playOrder="189">
-<navLabel><text>ಗುಣವತಿ ಚಂದ್ರವತಿಯರ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-170"/>
-</navPoint>
-<navPoint id="navPoint-190" playOrder="190">
-<navLabel><text>ಧನದತ್ತನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-171"/>
-</navPoint>
-<navPoint id="navPoint-191" playOrder="191">
-<navLabel><text>ಕೇಸಟನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-172"/>
-</navPoint>
-<navPoint id="navPoint-192" playOrder="192">
-<navLabel><text>ಕಂದರ್ಪನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-173"/>
-</navPoint>
-<navPoint id="navPoint-193" playOrder="193">
-<navLabel><text>ಕುಸುಮಾಯುಧನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-174"/>
-</navPoint>
-<navPoint id="navPoint-194" playOrder="194">
-<navLabel><text>ಚಂದ್ರಸ್ವಾಮಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-175"/>
-</navPoint>
-<navPoint id="navPoint-195" playOrder="195">
-<navLabel><text> ಕೃಷ್ಣಶಕ್ತಿಯ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-176"/>
-</navPoint>
-<navPoint id="navPoint-196" playOrder="196">
-<navLabel><text>ದೇವಸ್ವಾಮಿಯ ಕಥೆ </text></navLabel><content src="018-chapter018.xhtml#id-001-177"/>
-</navPoint>
-<navPoint id="navPoint-197" playOrder="197">
-<navLabel><text>ಅಗ್ನಿಶರ್ಮನ ಕಥೆ</text></navLabel><content src="018-chapter018.xhtml#id-001-178"/>
-</navPoint>
-<navPoint id="navPoint-198" playOrder="198">
-<navLabel><text>ಮೂಲದೇವನ ಕಥೆ </text></navLabel><content src="018-chapter018.xhtml#id-001-179"/>
-</navPoint>
-</navPoint>
-<navPoint id="navPoint-199" playOrder="199">
-<navLabel><text>ಅನುಬಂಧಗಳು</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
-<navPoint id="navPoint-200" playOrder="200">
-<navLabel><text>ಅನುಬಂಧಗಳು ೧ ದಶಕುಮಾರಚರಿತ್ರೆಯ ಸಾರಾಂಶ</text></navLabel><content src="019-chapter019.xhtml#id-001-180"/>
-</navPoint>
-<navPoint id="navPoint-201" playOrder="201">
-<navLabel><text>ಅನುಬಂಧ  ೨ ಬೃಹತ್ಕಥಾ ಶ್ಲೋಕಸಂಗ್ರಹದ ಕಥಾಮುಖ</text></navLabel><content src="019-chapter019.xhtml#id-001-181"/>
-</navPoint>
-<navPoint id="navPoint-202" playOrder="202">
-<navLabel><text>ಅನುಬಂಧ ೩ ಕಥಾಸರಿತ್ಸಾಗರದ ಸುಭಾಷಿತಗಳು</text></navLabel><content src="019-chapter019.xhtml#id-001-182"/>
+<navLabel><text>ಅನುಬಂಧ ೩ ಕಥಾಸರಿತ್ಸಾಗರದ ಸುಭಾಷಿತಗಳು</text></navLabel><content src="019-chapter019.xhtml#id-019.03"/>
 </navPoint>
 </navPoint>
    </navMap>
