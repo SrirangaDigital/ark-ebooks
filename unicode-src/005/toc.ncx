@@ -28,102 +28,105 @@
 <navLabel><text>ಅರ್ಪಣೆ</text></navLabel><content src="000c-preface.xhtml#id-000c.01"/>
 </navPoint>
 <navPoint id="navPoint-5" playOrder="5">
-<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000c.03"/>
+<navLabel><text>ತೃತೀಯ ಮುದ್ರಣದಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000c.02"/>
 </navPoint>
 <navPoint id="navPoint-6" playOrder="6">
-<navLabel><text>ಗ್ರಂಥಕರ್ತನ ಬಿನ್ನಹ</text></navLabel><content src="000c-preface.xhtml#id-000c.04"/>
+<navLabel><text>ಮುನ್ನುಡಿ</text></navLabel><content src="000c-preface.xhtml#id-000c.03"/>
 </navPoint>
 <navPoint id="navPoint-7" playOrder="7">
-<navLabel><text>ಕವಿಕಾಣಿಕೆ</text></navLabel><content src="000c-preface.xhtml#id-000c.05"/>
+<navLabel><text>ಗ್ರಂಥಕರ್ತನ ಬಿನ್ನಹ</text></navLabel><content src="000c-preface.xhtml#id-000c.04"/>
 </navPoint>
 <navPoint id="navPoint-8" playOrder="8">
-<navLabel><text>ಅಧ್ಯಾಯ ೧ –  ಬಂಗಾಳಿ ಸಾಹಿತ್ಯದ ಸಂಕ್ಷಿಪ್ತ ಚರಿತ್ರೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
+<navLabel><text>ಕವಿಕಾಣಿಕೆ</text></navLabel><content src="000c-preface.xhtml#id-000c.05"/>
 </navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-<navLabel><text>ಅಧ್ಯಾಯ ೨ –  ಬಂಕಿಮಚಂದ್ರನ ಸಂಕ್ಷಿಪ್ತ ಜೀವನಚರಿತ್ರೆ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧ –  ಬಂಗಾಳಿ ಸಾಹಿತ್ಯದ ಸಂಕ್ಷಿಪ್ತ ಚರಿತ್ರೆ</text></navLabel><content src="001-chapter001.xhtml#id-001"/>
 </navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-<navLabel><text>ಅಧ್ಯಾಯ ೩ –  ಬಂಕಿಮಚಂದ್ರನ ಕವಿತೆಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨ –  ಬಂಕಿಮಚಂದ್ರನ ಸಂಕ್ಷಿಪ್ತ ಜೀವನಚರಿತ್ರೆ</text></navLabel><content src="002-chapter002.xhtml#id-002"/>
 </navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-<navLabel><text>ಅಧ್ಯಾಯ ೪ –  ಬಂಕಿಮಚಂದ್ರನು ಬರೆದ ಮೊದಲನೆಯ ಕಾದಂಬರಿ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೩ –  ಬಂಕಿಮಚಂದ್ರನ ಕವಿತೆಗಳು</text></navLabel><content src="003-chapter003.xhtml#id-003"/>
 </navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-<navLabel><text>ಅಧ್ಯಾಯ ೫ –  ವಿಷವೃಕ್ಷ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೪ –  ಬಂಕಿಮಚಂದ್ರನು ಬರೆದ ಮೊದಲನೆಯ ಕಾದಂಬರಿ</text></navLabel><content src="004-chapter004.xhtml#id-004"/>
 </navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-<navLabel><text>ಅಧ್ಯಾಯ ೬ –  ಕೃಷ್ಣಕಾಂತನ ಉಯಿಲು</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೫ –  ವಿಷವೃಕ್ಷ</text></navLabel><content src="005-chapter005.xhtml#id-005"/>
 </navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-<navLabel><text>ಅಧ್ಯಾಯ ೭ –  ರಜನೀ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೬ –  ಕೃಷ್ಣಕಾಂತನ ಉಯಿಲು</text></navLabel><content src="006-chapter006.xhtml#id-006"/>
 </navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-<navLabel><text>ಅಧ್ಯಾಯ ೮ –  ಮೂರು ಸಣ್ಣ ಕಾದಂಬರಿಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೭ –  ರಜನೀ</text></navLabel><content src="007-chapter007.xhtml#id-007"/>
 </navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-<navLabel><text>ಅಧ್ಯಾಯ ೯ –  ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೮ –  ಮೂರು ಸಣ್ಣ ಕಾದಂಬರಿಗಳು</text></navLabel><content src="008-chapter008.xhtml#id-008"/>
 </navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೦ –  ದುರ್ಗೇಶನಂದಿನೀ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೯ –  ಐತಿಹಾಸಿಕ ಕಾದಂಬರಿಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="009-chapter009.xhtml#id-009"/>
 </navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೧ –  ಕಪಾಲ ಕುಂಡಲಾ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೦ –  ದುರ್ಗೇಶನಂದಿನೀ</text></navLabel><content src="010-chapter010.xhtml#id-010"/>
 </navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೨ –  ಮೃಣಾಳಿನೀ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೧ –  ಕಪಾಲ ಕುಂಡಲಾ</text></navLabel><content src="011-chapter011.xhtml#id-011"/>
 </navPoint>
 <navPoint id="navPoint-20" playOrder="20">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೩ –  ಚಂದ್ರಶೇಖರ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೨ –  ಮೃಣಾಳಿನೀ</text></navLabel><content src="012-chapter012.xhtml#id-012"/>
 </navPoint>
 <navPoint id="navPoint-21" playOrder="21">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೪ –  ರಾಜಸಿಂಹ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೩ –  ಚಂದ್ರಶೇಖರ</text></navLabel><content src="013-chapter013.xhtml#id-013"/>
 </navPoint>
 <navPoint id="navPoint-22" playOrder="22">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೫ –  ಆನಂದಮಠ</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೪ –  ರಾಜಸಿಂಹ</text></navLabel><content src="014-chapter014.xhtml#id-014"/>
 </navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೬ –  ದೇವೀ ಚೌಧುರಾಣೀ</text></navLabel><content src="016-chapter16.xhtml#id-016"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೫ –  ಆನಂದಮಠ</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೭ –  ಸೀತಾರಾಮ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೬ –  ದೇವೀ ಚೌಧುರಾಣೀ</text></navLabel><content src="016-chapter16.xhtml#id-016"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೮ –  ಪತ್ರಿಕೆಗಳುವಂಗದರ್ಶನ - ಪ್ರಚಾರ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೭ –  ಸೀತಾರಾಮ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
 </navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೯ –  ಲಘು ಲೇಖನಗಳುಲಘು ಲೇಖನಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೮ –  ಪತ್ರಿಕೆಗಳುವಂಗದರ್ಶನ - ಪ್ರಚಾರ</text></navLabel><content src="018-chapter018.xhtml#id-018"/>
 </navPoint>
 <navPoint id="navPoint-27" playOrder="27">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೦ –  ಲೋಕ ರಹಸ್ಯ</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೯ –  ಲಘು ಲೇಖನಗಳುಲಘು ಲೇಖನಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="019-chapter019.xhtml#id-019"/>
 </navPoint>
 <navPoint id="navPoint-28" playOrder="28">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೧ –  ಕಮಲಾಕಾಂತ</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೦ –  ಲೋಕ ರಹಸ್ಯ</text></navLabel><content src="020-chapter020.xhtml#id-020"/>
 </navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೨ –  ಮುಚಿರಾಮಗುಡನ ಜೀವನಚರಿತೆ</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೧ –  ಕಮಲಾಕಾಂತ</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೩ –  ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳು ಮತ್ತು ಲೇಖನಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೨ –  ಮುಚಿರಾಮಗುಡನ ಜೀವನಚರಿತೆ</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೪ –  ಧಶ್ರೀಕೃಷ್ಣ ಚರಿತ್ರ</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೩ –  ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳು ಮತ್ತು ಲೇಖನಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೫ –  ಧರ್ಮತತ್ತ್ವ</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೪ –  ಧಶ್ರೀಕೃಷ್ಣ ಚರಿತ್ರ</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೬ –  ದೇವತತ್ತ್ವ</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೫ –  ಧರ್ಮತತ್ತ್ವ</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
 </navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೭ –  ಭಗವದ್ಗೀತೆಯ ಟೀಕೆ</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೬ –  ದೇವತತ್ತ್ವ</text></navLabel><content src="026-chapter026.xhtml#id-026"/>
 </navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೮ –  ಧರ್ಮದರ್ಶನಾದಿಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟ ಇಂಗ್ಲಿಷ್​ ಲೇಖನಗಳು</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೭ –  ಭಗವದ್ಗೀತೆಯ ಟೀಕೆ</text></navLabel><content src="027-chapter027.xhtml#id-027"/>
 </navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-<navLabel><text>ಪ್ರಬಂಧಗಳು</text></navLabel><content src="029-chapter029.xhtml#id-029"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೮ –  ಧರ್ಮದರ್ಶನಾದಿಗಳಿಗೆ ಸಂಬಂಧಪಟ್ಟ ಇಂಗ್ಲಿಷ್​ ಲೇಖನಗಳು</text></navLabel><content src="028-chapter028.xhtml#id-028"/>
 </navPoint>
 <navPoint id="navPoint-37" playOrder="37">
+<navLabel><text>ಪ್ರಬಂಧಗಳು</text></navLabel><content src="029-chapter029.xhtml#id-029"/>
+</navPoint>
+<navPoint id="navPoint-38" playOrder="38">
 <navLabel><text>ಅಧ್ಯಾಯ ೩೦ಇತರ ಲೇಖನಗಳು</text></navLabel><content src="030-chapter030.xhtml#id-030"/>
 </navPoint>
    </navMap>
