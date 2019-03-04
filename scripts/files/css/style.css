@@ -126,7 +126,9 @@ body {
 .maintext span.verse-num,
 .maintext p.verse-num,
 .maintext span.verse-author,
-.maintext p.verse-author {
+.maintext p.verse-author,
+.maintext span.text-right,
+.maintext p.text-right {
 	display: block;
 	text-align: right;
 	page-break-before: avoid;
@@ -162,6 +164,9 @@ body {
 }
 .maintext .text-center {
 	text-align: center;
+}
+.maintext .text-center span.text-right {
+	text-align: right;
 }
 span.text-center{
 text-align: center;
