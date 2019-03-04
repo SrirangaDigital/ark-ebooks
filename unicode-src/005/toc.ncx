@@ -85,7 +85,7 @@
 <navLabel><text>ಅಧ್ಯಾಯ ೧೫ –  ಆನಂದಮಠ</text></navLabel><content src="015-chapter015.xhtml#id-015"/>
 </navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-<navLabel><text>ಅಧ್ಯಾಯ ೧೬ –  ದೇವೀ ಚೌಧುರಾಣೀ</text></navLabel><content src="016-chapter16.xhtml#id-016"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೧೬ –  ದೇವೀ ಚೌಧುರಾಣೀ</text></navLabel><content src="016-chapter016.xhtml#id-016"/>
 </navPoint>
 <navPoint id="navPoint-25" playOrder="25">
 <navLabel><text>ಅಧ್ಯಾಯ ೧೭ –  ಸೀತಾರಾಮ</text></navLabel><content src="017-chapter017.xhtml#id-017"/>
@@ -103,13 +103,13 @@
 <navLabel><text>ಅಧ್ಯಾಯ ೨೧ –  ಕಮಲಾಕಾಂತ</text></navLabel><content src="021-chapter021.xhtml#id-021"/>
 </navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೨ –  ಮುಚಿರಾಮಗುಡನ ಜೀವನಚರಿತೆ</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೨ –  ಮುಚಿರಾಮಗುಡನ ಜೀವನ ಚರಿತೆ</text></navLabel><content src="022-chapter022.xhtml#id-022"/>
 </navPoint>
 <navPoint id="navPoint-31" playOrder="31">
 <navLabel><text>ಅಧ್ಯಾಯ ೨೩ –  ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳು ಮತ್ತು ಲೇಖನಗಳು - ಪೀಠಿಕೆ</text></navLabel><content src="023-chapter023.xhtml#id-023"/>
 </navPoint>
 <navPoint id="navPoint-32" playOrder="32">
-<navLabel><text>ಅಧ್ಯಾಯ ೨೪ –  ಧಶ್ರೀಕೃಷ್ಣ ಚರಿತ್ರ</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
+<navLabel><text>ಅಧ್ಯಾಯ ೨೪ –  ಶ್ರೀಕೃಷ್ಣಚರಿತ್ರ</text></navLabel><content src="024-chapter024.xhtml#id-024"/>
 </navPoint>
 <navPoint id="navPoint-33" playOrder="33">
 <navLabel><text>ಅಧ್ಯಾಯ ೨೫ –  ಧರ್ಮತತ್ತ್ವ</text></navLabel><content src="025-chapter025.xhtml#id-025"/>
